@@ -114,6 +114,11 @@ hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
 metafile = true
 
 [[files]]
+file = "mods/configurable.pw.toml"
+hash = "dc6adf5804d410e8941312e75b8dce731d66aa00255f5b4ed48113da03c97730"
+metafile = true
+
+[[files]]
 file = "mods/corgilib.pw.toml"
 hash = "5c0fb5558f40b2eadcda6d7035961f48fa4c7ff24b0b440e59ba505edff97930"
 metafile = true
@@ -181,6 +186,11 @@ metafile = true
 [[files]]
 file = "mods/create-dreams-and-desires.pw.toml"
 hash = "df536f068808076c24dac917d86d581886ae5fb912672ec949d9c71a1a7a7fb7"
+metafile = true
+
+[[files]]
+file = "mods/create-dynamic-lights.pw.toml"
+hash = "56ff7fa56eb6ae7d32cdd1f7ce84022d1ed25b416dd9142572ef0d2360d49ec9"
 metafile = true
 
 [[files]]
@@ -569,6 +579,11 @@ hash = "895499658ca2a0656954bb49d57df887e43234c66f9d2bee2a881b28c056b1ca"
 metafile = true
 
 [[files]]
+file = "mods/neruina.pw.toml"
+hash = "297a15694e27c440f5515a52e7c3aa97f6e1bcc7f881154b064a5736f8193335"
+metafile = true
+
+[[files]]
 file = "mods/nneoenchant-addons-structure.pw.toml"
 hash = "309ac0fbf3d8e0f7400dca1ffebb8248dac17d344d415ffffa0b06bcf00bc9ea"
 metafile = true
@@ -684,8 +699,18 @@ hash = "00f400af981bbe8be3767ef49f4bc422a9649c3fa2d403bae7b25202a05fda1a"
 metafile = true
 
 [[files]]
+file = "mods/sodium-dynamic-lights.pw.toml"
+hash = "c1e526d3d17cb3563e596d45c7567ed1fe60c31bdc3457f7a747ef8150bd3c1b"
+metafile = true
+
+[[files]]
+file = "mods/sodium-options-api.pw.toml"
+hash = "d193173f0f5dfb4a921d44e29e8d5cee656dd3a40872939069715bb482b66fc9"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
-hash = "8d5628a4af0f355519b17bb0c6e5783c30aa78f6aa04b77b3892cd5d7c10af03"
+hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
 metafile = true
 
 [[files]]
