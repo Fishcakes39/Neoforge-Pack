@@ -1,0 +1,13 @@
+name = "Keybind Search (NeoForge)"
+filename = "keybindsearch-1.0.0.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "9c4c026e63b9be8cd82e2e5791cd658fbe876604"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6908472
+project-id = 1331324

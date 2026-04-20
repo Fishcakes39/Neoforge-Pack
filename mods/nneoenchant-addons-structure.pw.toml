@@ -1,0 +1,13 @@
+name = "NE+ Addons - Structure"
+filename = "nneoenchant-addons-structure-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bHyNNNwZ/versions/uiLHM6ck/nneoenchant-addons-structure-1.0.0.jar"
+hash-format = "sha512"
+hash = "101f2928d34d72a754c9edaf5fc082aa2861cadf741b2aad302e84bd55b51b017b6f07b869db97e0f560b4188e62be250ca816413779dc2ff2415f9ac28d4b15"
+
+[update]
+[update.modrinth]
+mod-id = "bHyNNNwZ"
+version = "uiLHM6ck"

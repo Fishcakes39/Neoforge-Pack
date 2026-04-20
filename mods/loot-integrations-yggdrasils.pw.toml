@@ -1,0 +1,13 @@
+name = "Loot Integrations: Yggdrasils"
+filename = "lootintegrations_yggdrasils-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9d6f02e63b66a63ba55dfdc4a820762656d4792a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7925598
+project-id = 1269854

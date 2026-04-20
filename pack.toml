@@ -1,0 +1,13 @@
+name = "NeoForge Create"
+author = "Sean T"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c0bad1dbf8270973092284eb77c3f6e44bbf5b052b4347c60e8be2cf0e08ab66"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.227"
