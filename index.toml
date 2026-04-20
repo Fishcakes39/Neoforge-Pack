@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "curse-jars/create-otbwg-compat-1.0.jar"
+hash = "aa10666f2f0812d8af419ce60f80f8cf2629f065cb07bdfd15443d168471997c"
+
+[[files]]
+file = "curse-jars/protection_pixel-2.2.1-neoforge-1.21.1.jar"
+hash = "a496e6263a0c2cd4341f05a1a71085e467cfe85b453a6aef1c38f614b61129f4"
+
+[[files]]
 file = "mods/advanced-netherite.pw.toml"
 hash = "ff3ae9bae59b91406577910119f4eeab80a6148f0fb661a3e88cf819943b20d2"
 metafile = true
@@ -26,8 +34,8 @@ hash = "bf68b426ab3361b1257ff1c3a8c0355475807d5f18332eebaca7754bcef945b3"
 metafile = true
 
 [[files]]
-file = "mods/anvilcore.pw.toml"
-hash = "6cea29f80c69c77c7e4001668a3f72f15eb3eb33bb99ad9cfc8b004ce41ff018"
+file = "mods/anvilcore-.pw.toml"
+hash = "25a5857812d5463fbc3c7590b3dc1e5455873ba3606ee8a3aeeafefec5081a7a"
 metafile = true
 
 [[files]]
@@ -107,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
-hash = "64b3518d2d05d07139d18c378366b3adc282d04b10cd2070345551dbc7207a6b"
+hash = "21110f3cc2edf33c680d3c8a680813288bcbd41122f2385ac976619dc37d7979"
 metafile = true
 
 [[files]]
@@ -166,8 +174,8 @@ hash = "b6c295ecb2dd178ba364423260046f5b826084cdb5f86e2f497774d575219897"
 metafile = true
 
 [[files]]
-file = "mods/create-dreams-desires.pw.toml"
-hash = "275ca17c0de3d568298d54114278ee26af7de78a07b0acfb5f996ee27242352b"
+file = "mods/create-dreams-and-desires.pw.toml"
+hash = "df536f068808076c24dac917d86d581886ae5fb912672ec949d9c71a1a7a7fb7"
 metafile = true
 
 [[files]]
@@ -251,11 +259,6 @@ hash = "a9dad68061b69b23ba00cd93d31dc8b5622f1426b4e684aaf6022e1bd492ae56"
 metafile = true
 
 [[files]]
-file = "mods/create-oh-the-biomes-weve-gone-compat.pw.toml"
-hash = "31f269762ab620d579996000d83d4c66d2e7f8a989b408afe3b9015f068984bb"
-metafile = true
-
-[[files]]
 file = "mods/create-ore-excavation.pw.toml"
 hash = "cba6d7d04b6068e326445672253580520a87873fc1065f7682984a9b9d91deb5"
 metafile = true
@@ -277,12 +280,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-storage-neo-forge.pw.toml"
-hash = "f3c8cab96276a41a7807b691dacdb0af8cefa813b278f4914e11c557bf871a06"
+hash = "1dec58f859d7a66deb6933eb1b151f99a65623ba8fb2ae4b2a1d6031d8e8e6c6"
 metafile = true
 
 [[files]]
 file = "mods/create-structures-arise.pw.toml"
-hash = "8024993d9fe6402d2083ac8c39ad26b8c857ee35e00398871334afcaa192d9be"
+hash = "56fb3889f1962712701a38e088da74557591d507fb3b018d63624841721091e2"
 metafile = true
 
 [[files]]
@@ -302,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-train-parts.pw.toml"
-hash = "5fac2471c694e4bf9c847106cc3e86408859b63d050e7d86603ba20a8ba4698c"
+hash = "bde53718df2ad68c55a0d4d80570a4fc9252562bcdd5574035a97ba1246b139f"
 metafile = true
 
 [[files]]
@@ -357,7 +360,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "d27935c69139d9d0be3146b5580ad7a94070c128c04a541e0164011cbc6de4b0"
+hash = "1610d7be42535a16971fe825983ee45af77dcbba37b37e75d5fa7f4d96cb3801"
 metafile = true
 
 [[files]]
@@ -606,11 +609,6 @@ hash = "eab2f56ff9135b3b7253ea5a73deae2f887e2876f5f0432936044a6e926937b4"
 metafile = true
 
 [[files]]
-file = "mods/protection-pixel.pw.toml"
-hash = "34cd5811ecc59af578b9ec108b9b379a6c60046477182305608312240847ee2b"
-metafile = true
-
-[[files]]
 file = "mods/puffish-attributes.pw.toml"
 hash = "15ee389c711499d6ac90048c882577c24411ebd6bd1e70b49aef601fcc3b3a09"
 metafile = true
@@ -672,7 +670,7 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "4abaf62a0f44239cee5d5638b47307f2a9017ef499330b2d74f89080d9a09b00"
+hash = "00f400af981bbe8be3767ef49f4bc422a9649c3fa2d403bae7b25202a05fda1a"
 metafile = true
 
 [[files]]
