@@ -109,6 +109,11 @@ hash = "7f866c26282e2a6cadac627952d1e7630a2b808b5308afe183cdf5e4899b05c1"
 metafile = true
 
 [[files]]
+file = "mods/chloride.pw.toml"
+hash = "0fef266808940494562e5409ee367db71095f96ba3f56ab8b352aea2238f231b"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
 metafile = true
@@ -121,6 +126,11 @@ metafile = true
 [[files]]
 file = "mods/corgilib.pw.toml"
 hash = "5c0fb5558f40b2eadcda6d7035961f48fa4c7ff24b0b440e59ba505edff97930"
+metafile = true
+
+[[files]]
+file = "mods/crawl-on-demand.pw.toml"
+hash = "db31dff8f093aa140e650449c292b8305743a3c6aa4dd23be942f2be7f58d60f"
 metafile = true
 
 [[files]]
@@ -706,6 +716,11 @@ metafile = true
 [[files]]
 file = "mods/sodium-dynamic-lights.pw.toml"
 hash = "c1e526d3d17cb3563e596d45c7567ed1fe60c31bdc3457f7a747ef8150bd3c1b"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "a1fb713df668ed21dda0602e99cb23b991c8faff841e130d7aae46258c3d6a45"
 metafile = true
 
 [[files]]
