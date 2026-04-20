@@ -400,7 +400,7 @@ metafile = true
 
 [[files]]
 file = "mods/flerovium.pw.toml"
-hash = "ab318c94ea021413ca29bdbc166219eba879214d752e77e616687b349e05e3fd"
+hash = "b63b09e67cde158a0aa1f92e018547ee7d24aad53698b92e6f53055fd72cceeb"
 metafile = true
 
 [[files]]
@@ -661,6 +661,11 @@ metafile = true
 [[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "7bdd9f530098c1579202d4e7e51f6dff9e6afe560b56770d94b332d9570b1e7f"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "6812d8e4fe1350478e4c9f5f38546e2c6f1f11dca073566dfbb6f8624d41a3e5"
 metafile = true
 
 [[files]]
