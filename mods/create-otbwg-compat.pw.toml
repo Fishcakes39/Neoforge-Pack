@@ -1,0 +1,8 @@
+name = "create-otbwg-compat"
+filename = "create-otbwg-compat-1.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Fishcakes39/Neoforge-Pack/raw/refs/heads/main/curse-jars/create-otbwg-compat-1.0.jar"
+hash-format = "sha256"
+hash = "aa10666f2f0812d8af419ce60f80f8cf2629f065cb07bdfd15443d168471997c"

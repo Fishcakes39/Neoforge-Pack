@@ -324,6 +324,11 @@ hash = "cba6d7d04b6068e326445672253580520a87873fc1065f7682984a9b9d91deb5"
 metafile = true
 
 [[files]]
+file = "mods/create-otbwg-compat.pw.toml"
+hash = "e9d91b2c88be0d7b1f602d3797b95d9e3d0f59c1419a9ac55d2e2af98fcd2428"
+metafile = true
+
+[[files]]
 file = "mods/create-pantographs-and-wires.pw.toml"
 hash = "ed151d54bd3d7deaad8d573901d7c1250412902ff397b74daf627a68eab565b2"
 metafile = true
@@ -696,6 +701,11 @@ metafile = true
 [[files]]
 file = "mods/prickle.pw.toml"
 hash = "eab2f56ff9135b3b7253ea5a73deae2f887e2876f5f0432936044a6e926937b4"
+metafile = true
+
+[[files]]
+file = "mods/protection-pixel.pw.toml"
+hash = "a3dc17302b6cb1e78b21ec925f24db8894a3346794732fe3ff01dbabea46c882"
 metafile = true
 
 [[files]]
