@@ -35,7 +35,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2-universal-press.pw.toml"
-hash = "44746edd712d32c4c73939ff72c605805a383637fdc3e7c853474aef5b741dbd"
+hash = "2c2b4321dc404b7d8add79d969b3b5e1293dbe9ae2e51ed943873d1926a9d695"
 metafile = true
 
 [[files]]

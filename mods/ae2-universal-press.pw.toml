@@ -1,13 +1,8 @@
-name = "AE2 Universal Press"
+name = "ae2-universal-press"
 filename = "ae_universal_press-1.6-neoforge-1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d151f2b349d7b3bbbf50778c02d07154137e5c83"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 7500700
-project-id = 1222746
+url = "https://github.com/Fishcakes39/Neoforge-Pack/raw/refs/heads/main/curse-jars/ae_universal_press-1.6-neoforge-1.21.1.jar"
+hash-format = "sha256"
+hash = "b8f7fc6512eeb7b98c7322348f68039476bc96b0060b6967b8188b97cd3a3884"
