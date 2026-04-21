@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "curse-jars/ae_universal_press-1.6-neoforge-1.21.1.jar"
+hash = "b8f7fc6512eeb7b98c7322348f68039476bc96b0060b6967b8188b97cd3a3884"
+
+[[files]]
 file = "curse-jars/create-otbwg-compat-1.0.jar"
 hash = "aa10666f2f0812d8af419ce60f80f8cf2629f065cb07bdfd15443d168471997c"
 
