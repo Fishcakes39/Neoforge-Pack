@@ -504,6 +504,11 @@ hash = "393599b201dad57245cba41db57262dd43b2ddcecc2ef8ea8ee09ddb28a926c0"
 metafile = true
 
 [[files]]
+file = "mods/integrated-villages.pw.toml"
+hash = "2ca8c05fa127c06f1e2e2a7fcc2a9f54549e42ffb72838358fe50ea9a65c5475"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "221244d69134b0270a848ae4bc2eb99b73ee997d0beb491d1397d894f60bc3ac"
 metafile = true
