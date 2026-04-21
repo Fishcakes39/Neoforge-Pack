@@ -29,6 +29,16 @@ hash = "50387e948be96b51d9d18d5be33c997de15d7f06f22ca8b61f694b418047d35f"
 metafile = true
 
 [[files]]
+file = "mods/ae2-jei-integration.pw.toml"
+hash = "491974dc6adba0e893fb755f55dfe833a1076ba49fdf9e4f92b8b9fa069ce9b5"
+metafile = true
+
+[[files]]
+file = "mods/ae2-universal-press.pw.toml"
+hash = "44746edd712d32c4c73939ff72c605805a383637fdc3e7c853474aef5b741dbd"
+metafile = true
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "db026135a8a23b2b660ebbfa8a85d06b26249305b2612bc2fab930e252100890"
 metafile = true
@@ -201,6 +211,11 @@ metafile = true
 [[files]]
 file = "mods/create-compatible-storage.pw.toml"
 hash = "7820f513896b8d2ce71a5f95f5ff3739550690e1021c34b984e7c16341195266"
+metafile = true
+
+[[files]]
+file = "mods/create-connected.pw.toml"
+hash = "3193eadd1b5129f83987593b5abc03a301b962e7da217a15d5e575646711db46"
 metafile = true
 
 [[files]]
