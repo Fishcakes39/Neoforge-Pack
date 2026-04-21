@@ -319,11 +319,6 @@ hash = "a9dad68061b69b23ba00cd93d31dc8b5622f1426b4e684aaf6022e1bd492ae56"
 metafile = true
 
 [[files]]
-file = "mods/create-oh-the-biomes-weve-gone-compat.pw.toml"
-hash = "31f269762ab620d579996000d83d4c66d2e7f8a989b408afe3b9015f068984bb"
-metafile = true
-
-[[files]]
 file = "mods/create-ore-excavation.pw.toml"
 hash = "cba6d7d04b6068e326445672253580520a87873fc1065f7682984a9b9d91deb5"
 metafile = true
