@@ -119,6 +119,11 @@ hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
 metafile = true
 
 [[files]]
+file = "mods/combat-roll.pw.toml"
+hash = "e52e14c05ec085330effde5efdcb0de43afa65cca73e045f5a13516fdfea54eb"
+metafile = true
+
+[[files]]
 file = "mods/configurable.pw.toml"
 hash = "dc6adf5804d410e8941312e75b8dce731d66aa00255f5b4ed48113da03c97730"
 metafile = true
@@ -711,6 +716,16 @@ metafile = true
 [[files]]
 file = "mods/servercore.pw.toml"
 hash = "00f400af981bbe8be3767ef49f4bc422a9649c3fa2d403bae7b25202a05fda1a"
+metafile = true
+
+[[files]]
+file = "mods/simply-swords.pw.toml"
+hash = "d1256812bf0244b3914af4206cba1203dd51a3c849c5592315ac707f8941f9f2"
+metafile = true
+
+[[files]]
+file = "mods/simply-tooltips.pw.toml"
+hash = "529ad0d8a91e6cdbd8e9460f80ad9f4bcb393020749632c2ff77e6835c812a4b"
 metafile = true
 
 [[files]]
