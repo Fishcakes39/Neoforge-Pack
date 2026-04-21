@@ -94,11 +94,6 @@ hash = "0170230061b6d48856a54dbb36e7a435d1128be29f93cde9156c31643811e8af"
 metafile = true
 
 [[files]]
-file = "mods/bmnw.pw.toml"
-hash = "7095094ec061f873f6e9c6d105737a79d7dc2b26cf91add48e4270eff71186be"
-metafile = true
-
-[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "cf914684c4151076b726116a66f7bc81a6116655551bcce70a9e64e34e5aa308"
 metafile = true
