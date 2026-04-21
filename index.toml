@@ -729,6 +729,11 @@ hash = "529ad0d8a91e6cdbd8e9460f80ad9f4bcb393020749632c2ff77e6835c812a4b"
 metafile = true
 
 [[files]]
+file = "mods/small-ships.pw.toml"
+hash = "5a77ccbf2ef7464e64d0da2ee5097392b6e25c42574528109838903631eec833"
+metafile = true
+
+[[files]]
 file = "mods/sodium-dynamic-lights.pw.toml"
 hash = "c1e526d3d17cb3563e596d45c7567ed1fe60c31bdc3457f7a747ef8150bd3c1b"
 metafile = true
