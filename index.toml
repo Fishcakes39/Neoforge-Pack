@@ -9,8 +9,23 @@ file = "curse-jars/protection_pixel-2.2.1-neoforge-1.21.1.jar"
 hash = "a496e6263a0c2cd4341f05a1a71085e467cfe85b453a6aef1c38f614b61129f4"
 
 [[files]]
+file = "mods/accessories-compat-layer.pw.toml"
+hash = "0085d9a1eb73a68fe1d07f26b27fb93b0e1a582ab0f47d068fc94d055165aa99"
+metafile = true
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "39ec3cac812f819f45b88a70f6b83eb8c0e6007e9272bbccfb3f364b421d2631"
+metafile = true
+
+[[files]]
 file = "mods/advanced-netherite.pw.toml"
 hash = "ff3ae9bae59b91406577910119f4eeab80a6148f0fb661a3e88cf819943b20d2"
+metafile = true
+
+[[files]]
+file = "mods/ae2-crafting-tree.pw.toml"
+hash = "50387e948be96b51d9d18d5be33c997de15d7f06f22ca8b61f694b418047d35f"
 metafile = true
 
 [[files]]
@@ -104,6 +119,11 @@ hash = "7f866c26282e2a6cadac627952d1e7630a2b808b5308afe183cdf5e4899b05c1"
 metafile = true
 
 [[files]]
+file = "mods/charm-of-undying.pw.toml"
+hash = "a5a04d39791ce824b7b0b78fd1fa4f08d1584c77c9c52edcb7210439f8917e98"
+metafile = true
+
+[[files]]
 file = "mods/chloride.pw.toml"
 hash = "0fef266808940494562e5409ee367db71095f96ba3f56ab8b352aea2238f231b"
 metafile = true
@@ -116,6 +136,16 @@ metafile = true
 [[files]]
 file = "mods/combat-roll.pw.toml"
 hash = "e52e14c05ec085330effde5efdcb0de43afa65cca73e045f5a13516fdfea54eb"
+metafile = true
+
+[[files]]
+file = "mods/compat-api.pw.toml"
+hash = "45fd9d336caa62aa1cd9ca477baad3168c407c0f3ac366700975242db86ec7a9"
+metafile = true
+
+[[files]]
+file = "mods/compat-structure.pw.toml"
+hash = "4471f044739ed8a611555bf2527dfff000ab556063b140f79dba67aa58d9cc26"
 metafile = true
 
 [[files]]
@@ -136,6 +166,11 @@ metafile = true
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
 hash = "21110f3cc2edf33c680d3c8a680813288bcbd41122f2385ac976619dc37d7979"
+metafile = true
+
+[[files]]
+file = "mods/create-applied-kinetics.pw.toml"
+hash = "d9194e55e2db6d1a8712b6356ba81d03a081c2a5a3fccf9a03ed89ceb124d984"
 metafile = true
 
 [[files]]
@@ -281,6 +316,11 @@ metafile = true
 [[files]]
 file = "mods/create-new-age.pw.toml"
 hash = "a9dad68061b69b23ba00cd93d31dc8b5622f1426b4e684aaf6022e1bd492ae56"
+metafile = true
+
+[[files]]
+file = "mods/create-oh-the-biomes-weve-gone-compat.pw.toml"
+hash = "31f269762ab620d579996000d83d4c66d2e7f8a989b408afe3b9015f068984bb"
 metafile = true
 
 [[files]]
@@ -564,6 +604,11 @@ hash = "543b8a8ff5796648146f3102dea686e806f793052d329d0fa3efee8194d4df52"
 metafile = true
 
 [[files]]
+file = "mods/mob-lassos.pw.toml"
+hash = "fd9daadc1bcff656df1dcd444c02618ad9802ab9c4a2487b8b7d02026f107309"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "d136652841b9e3eb39f95a113bbdc69370c2bfef91997fa716409f49be511063"
 metafile = true
@@ -619,6 +664,11 @@ hash = "b3f6b603edd97a2974eaa05aa897beb3701e2f0c517dc783a22f66d69e3c97ad"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "3db5943419e6b6f4e33946266be8797230434573bc68dbe3a77d72f19001ae0c"
+metafile = true
+
+[[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "75d42d0a0bcfbcce376fb229f72b75e3a40592fdff5490b997c19ef439a9c832"
 metafile = true
@@ -661,6 +711,11 @@ metafile = true
 [[files]]
 file = "mods/puffish-skills.pw.toml"
 hash = "3069dab66ea67e1801b66543913b59def769deb46915aa2409d476f04c072a82"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "804736be3ded2a6f89f44522b88d82636209ed203c234ea34b6d6ffdd9ecee54"
 metafile = true
 
 [[files]]
