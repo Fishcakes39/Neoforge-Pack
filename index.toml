@@ -228,6 +228,11 @@ hash = "e0b3a9a93ee6751c47e6088be7357573329eda19b4377e3068fb6a5eb49b8dfa"
 metafile = true
 
 [[files]]
+file = "mods/create-crowns.pw.toml"
+hash = "1578091879180e20d87a30d11c12d1e437284c71d168f2f217ff1e50ec575744"
+metafile = true
+
+[[files]]
 file = "mods/create-curios-jetpack.pw.toml"
 hash = "4d4804b4b09a1e8df068f465cca9b07b818ee6d6c2c061269e42b2cea9749be0"
 metafile = true
@@ -270,6 +275,11 @@ metafile = true
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "a2fcc547252d18a8f12cbf85f004b193f30b592fe598b12009b27d4f89fe1412"
+metafile = true
+
+[[files]]
+file = "mods/create-ender-transmission.pw.toml"
+hash = "334e21694b994cceb50a25977e82f3283210cfd313a78c8a6c63419f4de9a306"
 metafile = true
 
 [[files]]
@@ -470,6 +480,11 @@ metafile = true
 [[files]]
 file = "mods/flerovium.pw.toml"
 hash = "b63b09e67cde158a0aa1f92e018547ee7d24aad53698b92e6f53055fd72cceeb"
+metafile = true
+
+[[files]]
+file = "mods/formicapi.pw.toml"
+hash = "f59ecb3d319d57328738da81e5a5e0e3c78b03890ed3455483348b79edc5502b"
 metafile = true
 
 [[files]]
