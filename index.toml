@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "curse-jars/V0-NeoEnchant-5.14.0.jar"
+hash = "f2302c2c56f34a34d245cb9c4d382c37af3d81788504fcad64811cfdc5a78156"
+
+[[files]]
 file = "curse-jars/ae_universal_press-1.6-neoforge-1.21.1.jar"
 hash = "b8f7fc6512eeb7b98c7322348f68039476bc96b0060b6967b8188b97cd3a3884"
 
@@ -53,6 +57,11 @@ hash = "4d390d60d7925cbc8e363d1d93fbc378e51ab95313bcdbede86f8c7996e42eb3"
 metafile = true
 
 [[files]]
+file = "mods/almostunified.pw.toml"
+hash = "9f5aad1d762982ebf9375501f6de7080d60d5b7c24732dc162175d4307c18411"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "571293a6ddb6b5ea7b9c1f5454d0cfc584a5aa50397942bea4906d3b54e02e02"
 metafile = true
@@ -93,6 +102,11 @@ hash = "a445471ac6843bcf9fb76eabb4357de0357dfa7782be536a7827a26764fe45c1"
 metafile = true
 
 [[files]]
+file = "mods/auto-smelting.pw.toml"
+hash = "a5e46688de36fe151cbbc426d6afc5099b7503eb63e5d0d22eae1a7467284ff6"
+metafile = true
+
+[[files]]
 file = "mods/baguettelib.pw.toml"
 hash = "1a52b3a6071fa86dc0854189e110e7dd6c27c0944856fee39a781f58275e1cdd"
 metafile = true
@@ -125,6 +139,11 @@ metafile = true
 [[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "cf914684c4151076b726116a66f7bc81a6116655551bcce70a9e64e34e5aa308"
+metafile = true
+
+[[files]]
+file = "mods/caelus.pw.toml"
+hash = "86cf2ae835b8f3d981af2e88a4d19fdc3dc4f5aa3904c6ba30e25d77d3e9fcbb"
 metafile = true
 
 [[files]]
@@ -453,6 +472,11 @@ hash = "40c25efbb69e526bd84e17da231501efbdea1305adc7ab27c3601971aebb1308"
 metafile = true
 
 [[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "32078c39569bbb4b33d2d86a09cfc18a9f5b63a11d0ba2b186fd07341e422c92"
+metafile = true
+
+[[files]]
 file = "mods/end-villager-outpost.pw.toml"
 hash = "52599046dab8a7656a421de3ec3e14dfe0ea50bf31cf6c76127bbdae4fc3ea87"
 metafile = true
@@ -665,11 +689,6 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "2e9a8daaa0e0cc9cdfb67422e0f928f2db6a1f2984b8636eb2b5091c5fb23e29"
-metafile = true
-
-[[files]]
-file = "mods/neoenchant.pw.toml"
-hash = "895499658ca2a0656954bb49d57df887e43234c66f9d2bee2a881b28c056b1ca"
 metafile = true
 
 [[files]]
@@ -900,6 +919,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender-neoforge.pw.toml"
 hash = "d77e4dc337b6090358c1ef01b0f99a8357e5279443e0e23e511de1be865c01c9"
+metafile = true
+
+[[files]]
+file = "mods/vein-mining.pw.toml"
+hash = "dafce3fe69872f2afc5f8c0b6d929e1cb5c90a79145766e1d545513fe1f346f8"
 metafile = true
 
 [[files]]
