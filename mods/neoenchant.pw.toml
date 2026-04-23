@@ -1,0 +1,8 @@
+name = "neoenchant"
+filename = "V0-NeoEnchant-5.14.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Fishcakes39/Neoforge-Pack/raw/refs/heads/main/curse-jars/V0-NeoEnchant-5.14.0.jar"
+hash-format = "sha256"
+hash = "f2302c2c56f34a34d245cb9c4d382c37af3d81788504fcad64811cfdc5a78156"
