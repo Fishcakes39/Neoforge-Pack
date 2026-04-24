@@ -1,13 +1,13 @@
 name = "Create : CROWNS"
-filename = "crowns-1.21.1-2.1.3.jar"
+filename = "crowns-1.21.1-2.1.5.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5983e04b1f147692b350375f37946bde74890324"
+hash = "f0ee075c14285d9367ad86132b4e921858ccff34"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7850712
+file-id = 7979319
 project-id = 968670
