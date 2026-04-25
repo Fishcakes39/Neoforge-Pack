@@ -1,13 +1,13 @@
 name = "FormicApi"
-filename = "formicapi-1.21.1-2.2.3.jar"
+filename = "formicapi-1.21.1-2.1.5.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "62daa93f78dc04d2b1790aa021b039461a90e4ef"
+hash = "27f1cfd03b3051a21961690343e7239d6cc8dfc9"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7979338
+file-id = 7967253
 project-id = 1282701

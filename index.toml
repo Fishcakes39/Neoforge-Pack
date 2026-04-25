@@ -253,7 +253,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-crowns.pw.toml"
-hash = "0adbea6cadf4940dbe280f4c1a116e458cd27e9206cd09da5ed068ae4e6ff355"
+hash = "b15fd336e064cd0722645eaee1d993c01600c8317081aba6dd45f5b5df248f5a"
 metafile = true
 
 [[files]]
@@ -518,7 +518,7 @@ metafile = true
 
 [[files]]
 file = "mods/formicapi.pw.toml"
-hash = "c9b3c039fb798fcd4e19a8e5f062a1ba6e8c22142765bdc57398cd9b042c8078"
+hash = "62fcb4cdace83f896ef9569b084a3651ff2a0f7f9f87d22b68acd7d19189307a"
 metafile = true
 
 [[files]]
