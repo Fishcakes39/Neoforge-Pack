@@ -872,11 +872,6 @@ hash = "96e5c52b0fafd54183e29b3ab1d8df8f1e09a46045afe0d35d19274c07c59d80"
 metafile = true
 
 [[files]]
-file = "mods/sepals.pw.toml"
-hash = "f7f14b5ff347c67e268e30d382876f98951d3973be251c235f0c97d5ff9a5e3a"
-metafile = true
-
-[[files]]
 file = "mods/servercore.pw.toml"
 hash = "00f400af981bbe8be3767ef49f4bc422a9649c3fa2d403bae7b25202a05fda1a"
 metafile = true
