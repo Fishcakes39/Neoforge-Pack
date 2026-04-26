@@ -1,0 +1,8 @@
+name = "annuus"
+filename = "Annuus-neoforge-1.0.16-fix2-patched-mixin-toml.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Fishcakes39/Neoforge-Pack/raw/refs/heads/main/curse-jars/Annuus-neoforge-1.0.16-fix2-patched-mixin-toml.jar"
+hash-format = "sha256"
+hash = "12e5ade88fd03b06020c619a99b387343f7a06403b869d933bb7b5bb2dce4289"
