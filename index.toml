@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "curse-jars/Annuus-fabric-1.0.16-fix2.jar"
+hash = "2040b622d963db6954b3d61cd22faebb25e18dfd9ec9770ed8e3465cf956e36f"
+
+[[files]]
 file = "curse-jars/V0-NeoEnchant-5.14.0.jar"
 hash = "f2302c2c56f34a34d245cb9c4d382c37af3d81788504fcad64811cfdc5a78156"
 
@@ -69,11 +73,6 @@ metafile = true
 [[files]]
 file = "mods/amendments.pw.toml"
 hash = "bf68b426ab3361b1257ff1c3a8c0355475807d5f18332eebaca7754bcef945b3"
-metafile = true
-
-[[files]]
-file = "mods/annuus.pw.toml"
-hash = "4c7304bc43e0281287bdc013c88c5242a0fade4b9a95ca8c00afe1c11683925c"
 metafile = true
 
 [[files]]
