@@ -1,13 +1,13 @@
 name = "Annuus"
-filename = "Annuus-neoforge-1.0.17.jar"
+filename = "Annuus-neoforge-1.0.16-fix2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/kIfxYoGs/versions/LXpu0APx/Annuus-neoforge-1.0.17.jar"
+url = "https://cdn.modrinth.com/data/kIfxYoGs/versions/fz24WWx1/Annuus-neoforge-1.0.16-fix2.jar"
 hash-format = "sha512"
-hash = "66816a98959ba048372d6382635e8c906a6d6fe36d19cde9995c74e54241073eee838f94fc0c55610b677e189924bb8c3c2831267c0f89b92d5e1e9cd72bd7b3"
+hash = "4861971731921b238a4965cca329dfef05334c6a3f0b329da4becf8e28d835594f74641c6c9d379db1b6e178b340113740e203e2180b4dd513a2bbe78e23ed6b"
 
 [update]
 [update.modrinth]
 mod-id = "kIfxYoGs"
-version = "LXpu0APx"
+version = "fz24WWx1"

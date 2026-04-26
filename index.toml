@@ -73,7 +73,7 @@ metafile = true
 
 [[files]]
 file = "mods/annuus.pw.toml"
-hash = "89d1efffaf5550a2d67a326cd04ecafae4ecbe24344631041db9673ac111136c"
+hash = "32ee58b54aff1ddb3d4e76045aec1bc3c8f49d0b173f1d5d25e5118c6af51dc1"
 metafile = true
 
 [[files]]
@@ -667,6 +667,11 @@ hash = "395ed890024bdb90e7c0fed1edf8b3905a367942ded954fca92384c76a7e5601"
 metafile = true
 
 [[files]]
+file = "mods/lithium.pw.toml"
+hash = "3b41e84ca0e5bd93f05eddcdff3f47b38e8bb9863b9bbb4bf05991098487a8a5"
+metafile = true
+
+[[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "0c92a3670d2a7a0f013ca6741b75bd8b87c363eb3595d0d43a750b5fb09bf210"
 metafile = true
@@ -817,11 +822,6 @@ hash = "3b701ee3561dcbcd81d7b73695e515d302d87a0944218c340f5ccc8e1b390152"
 metafile = true
 
 [[files]]
-file = "mods/radium-reforged.pw.toml"
-hash = "67591382be789035eec313d92c15b224c0bdecab65091c9191c44502a99e834e"
-metafile = true
-
-[[files]]
 file = "mods/rechiseled-create.pw.toml"
 hash = "39131fc0691acb2c9b28a180d6a2b88efa28fc6b1360a8875b339027c0b71202"
 metafile = true
@@ -873,7 +873,7 @@ metafile = true
 
 [[files]]
 file = "mods/sepals.pw.toml"
-hash = "199873473d283b7f977e61892324d053bbc8521d5fe1a9cfb97fd2b588a5ceb6"
+hash = "f7f14b5ff347c67e268e30d382876f98951d3973be251c235f0c97d5ff9a5e3a"
 metafile = true
 
 [[files]]

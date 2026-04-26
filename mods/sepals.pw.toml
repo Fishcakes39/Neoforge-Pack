@@ -1,13 +1,13 @@
 name = "Sepals"
-filename = "Sepals-neoforge-1.0.30-fix3.jar"
+filename = "Sepals-neoforge-1.0.15.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/hH1OHXZD/versions/5f7u5kbo/Sepals-neoforge-1.0.30-fix3.jar"
+url = "https://cdn.modrinth.com/data/hH1OHXZD/versions/aNydStgD/Sepals-neoforge-1.0.15.jar"
 hash-format = "sha512"
-hash = "39942837c79416f67571517cd844e417d7124918bff653648d0637467073ac757537d6802d4626ffa278464cba9119feda817381608193865de893c780528cce"
+hash = "cfd1a5f76740ed2ac429a262212cda68444f587dd71aca206bd1806d1b1806a8cf06ab01344c275827c81ed65d1bc654ed5de8387d169d7a7f3224151a99c2c9"
 
 [update]
 [update.modrinth]
 mod-id = "hH1OHXZD"
-version = "5f7u5kbo"
+version = "aNydStgD"
