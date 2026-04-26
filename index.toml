@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "curse-jars/Annuus-neoforge-1.0.16-fix2-neoforge-chunkonly.jar"
-hash = "75b7bb0fb30176dfee8f494e477d803b0090b44678feedd9b0fb49585ffd2886"
-
-[[files]]
 file = "curse-jars/V0-NeoEnchant-5.14.0.jar"
 hash = "f2302c2c56f34a34d245cb9c4d382c37af3d81788504fcad64811cfdc5a78156"
 
@@ -73,11 +69,6 @@ metafile = true
 [[files]]
 file = "mods/amendments.pw.toml"
 hash = "bf68b426ab3361b1257ff1c3a8c0355475807d5f18332eebaca7754bcef945b3"
-metafile = true
-
-[[files]]
-file = "mods/annuus.pw.toml"
-hash = "0c87a50c8ea96464ab357c444965646b76a49c2fae2d6bb74e3cbfb56a7adc9e"
 metafile = true
 
 [[files]]
