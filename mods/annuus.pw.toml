@@ -1,0 +1,13 @@
+name = "Annuus"
+filename = "Annuus-neoforge-1.0.17.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kIfxYoGs/versions/LXpu0APx/Annuus-neoforge-1.0.17.jar"
+hash-format = "sha512"
+hash = "66816a98959ba048372d6382635e8c906a6d6fe36d19cde9995c74e54241073eee838f94fc0c55610b677e189924bb8c3c2831267c0f89b92d5e1e9cd72bd7b3"
+
+[update]
+[update.modrinth]
+mod-id = "kIfxYoGs"
+version = "LXpu0APx"

@@ -1,0 +1,13 @@
+name = "Sepals"
+filename = "Sepals-neoforge-1.0.30-fix3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/hH1OHXZD/versions/5f7u5kbo/Sepals-neoforge-1.0.30-fix3.jar"
+hash-format = "sha512"
+hash = "39942837c79416f67571517cd844e417d7124918bff653648d0637467073ac757537d6802d4626ffa278464cba9119feda817381608193865de893c780528cce"
+
+[update]
+[update.modrinth]
+mod-id = "hH1OHXZD"
+version = "5f7u5kbo"
