@@ -76,6 +76,11 @@ hash = "bf68b426ab3361b1257ff1c3a8c0355475807d5f18332eebaca7754bcef945b3"
 metafile = true
 
 [[files]]
+file = "mods/annuus.pw.toml"
+hash = "15f22482b9dfd4f0eaa0bdb05ad953f431b9c4e7b591e93f4ba9bb34b025bd3e"
+metafile = true
+
+[[files]]
 file = "mods/anvilcore-.pw.toml"
 hash = "25a5857812d5463fbc3c7590b3dc1e5455873ba3606ee8a3aeeafefec5081a7a"
 metafile = true
