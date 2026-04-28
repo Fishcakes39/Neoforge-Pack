@@ -1,13 +1,13 @@
 name = "Inv View Forge/NeoForge"
-filename = "inv_view_neoforge-3.0.2-1.21.(5).jar"
-side = "both"
+filename = "inv_view_neoforge-3.0.1-1.21.1.jar"
+side = "server"
 
 [download]
-hash-format = "sha1"
-hash = "84e2e49784896cd38e2bc082a62c0e632e12b575"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/RXM1nxge/versions/xwwmxM24/inv_view_neoforge-3.0.1-1.21.1.jar"
+hash-format = "sha512"
+hash = "405c42ee854bbefc8f2292e7c510e797fd1a34e710825659bfdd50ffb770d98da26721f4a6aa49640ed27cd4bc125e9aa7afb66e62fc0e38982bfa66df694220"
 
 [update]
-[update.curseforge]
-file-id = 6754767
-project-id = 997252
+[update.modrinth]
+mod-id = "RXM1nxge"
+version = "xwwmxM24"
