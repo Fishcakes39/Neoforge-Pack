@@ -17,16 +17,6 @@ file = "curse-jars/protection_pixel-2.2.1-neoforge-1.21.1.jar"
 hash = "a496e6263a0c2cd4341f05a1a71085e467cfe85b453a6aef1c38f614b61129f4"
 
 [[files]]
-file = "mods/accessories-compat-layer.pw.toml"
-hash = "0085d9a1eb73a68fe1d07f26b27fb93b0e1a582ab0f47d068fc94d055165aa99"
-metafile = true
-
-[[files]]
-file = "mods/accessories.pw.toml"
-hash = "39ec3cac812f819f45b88a70f6b83eb8c0e6007e9272bbccfb3f364b421d2631"
-metafile = true
-
-[[files]]
 file = "mods/advanced-netherite.pw.toml"
 hash = "ff3ae9bae59b91406577910119f4eeab80a6148f0fb661a3e88cf819943b20d2"
 metafile = true
