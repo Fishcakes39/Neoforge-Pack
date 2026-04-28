@@ -177,6 +177,11 @@ hash = "e52e14c05ec085330effde5efdcb0de43afa65cca73e045f5a13516fdfea54eb"
 metafile = true
 
 [[files]]
+file = "mods/common-network.pw.toml"
+hash = "e5052ab66811e9217d662d712781796c72f7105fbbc81e1de3469ccf6178d5a0"
+metafile = true
+
+[[files]]
 file = "mods/compat-api.pw.toml"
 hash = "45fd9d336caa62aa1cd9ca477baad3168c407c0f3ac366700975242db86ec7a9"
 metafile = true
@@ -203,12 +208,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics-portable-engine-liquid-fuel.pw.toml"
-hash = "d7255d49c390e92963799047e91e12674d1d220495ddc192ab4bf650aa28e558"
+hash = "0e03964744cbccd2a9dd556690463b77dbe83633f9d4f755ead9efc32a090519"
 metafile = true
 
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
-hash = "74f3358e1070f1163d14cb62ee768a389bd758f36b5c21471910e43fbcfacc9e"
+hash = "6ea6284b569b13f45bfe44f9790389de4a2f7cda92c8b3bb94511b600d64c486"
 metafile = true
 
 [[files]]
@@ -258,7 +263,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-creating-space.pw.toml"
-hash = "a682acbd58d84e0ccf2aed10d2c626ca7fa5858aeaf1edbaf3a542967e94220e"
+hash = "c4d14aa28a49915dc2f46db9c2e2c9385481fcbce4b41edf110ac09fd5173ebd"
 metafile = true
 
 [[files]]
@@ -597,6 +602,11 @@ hash = "317890a10a1ccd7d28cfbcdce16708e133a97c3a49d5f8c86a095e324e044a97"
 metafile = true
 
 [[files]]
+file = "mods/icarus.pw.toml"
+hash = "5801876150a830f0d8d5f15e19d33ac3c2adbc13d61cbf5d727877a4e9794433"
+metafile = true
+
+[[files]]
 file = "mods/idas.pw.toml"
 hash = "29173b6f27b0c520d09b6bf6f15b3f58ba14e84fef75c0198e3bf03bdf423c6b"
 metafile = true
@@ -837,6 +847,11 @@ hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "89d21f5da7fea8b1197c6e8e5215d45f7400844560e0f7c179d3c6145bd36a95"
+metafile = true
+
+[[files]]
 file = "mods/rhino.pw.toml"
 hash = "75ff68dd0bfb30f2ff97f170ffbb74d5b6aaa791416c4a0559d09ac8778561ba"
 metafile = true
@@ -858,7 +873,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "8f3670cd178c82927b7fb0bda8a086d857fb3f0ba6b8c6d3b41ab11915bc8c67"
+hash = "087c90bc7aef7758cbf698829ac0b8b74a6f862f1918c7f415828524ae210f4c"
 metafile = true
 
 [[files]]
@@ -939,6 +954,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "6d9eaf43c14c66465e87bf03cc5cb5ecef57b3f2e8063c52f6332d33689d30be"
+metafile = true
+
+[[files]]
+file = "mods/sparkweave.pw.toml"
+hash = "539d9b8eab98c3dd8cabc69e39f1560fc0118887cdce84fbcabd66704a72855a"
 metafile = true
 
 [[files]]
