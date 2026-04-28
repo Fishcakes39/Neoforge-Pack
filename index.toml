@@ -212,6 +212,11 @@ hash = "74f3358e1070f1163d14cb62ee768a389bd758f36b5c21471910e43fbcfacc9e"
 metafile = true
 
 [[files]]
+file = "mods/create-aeroworks.pw.toml"
+hash = "4b24d47edfcb0dd5337d524ce9d8d9a1d17b0ed4f200b7353dd381f6be319e3b"
+metafile = true
+
+[[files]]
 file = "mods/create-applied-kinetics.pw.toml"
 hash = "d9194e55e2db6d1a8712b6356ba81d03a081c2a5a3fccf9a03ed89ceb124d984"
 metafile = true
@@ -223,7 +228,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
-hash = "6ec94a5193c7b2077f9b750fcabdcabbef56c279eeea07b1a426a17a6bf625ce"
+hash = "2c6621f2d82a9be0240bbf9c0a416f7dc79edd63636f6d1b869c93ca5f59bade"
 metafile = true
 
 [[files]]
@@ -248,12 +253,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-connected.pw.toml"
-hash = "3193eadd1b5129f83987593b5abc03a301b962e7da217a15d5e575646711db46"
+hash = "3b12e639fef9a821167533b31a54df9af083fd89a8a30e36607cbb24015c79e7"
 metafile = true
 
 [[files]]
 file = "mods/create-creating-space.pw.toml"
-hash = "2d406e9f7fb8b7bd24b1e7e5d1d2ef1d35e4af9bdc3f21815291b8e01d5d414c"
+hash = "a682acbd58d84e0ccf2aed10d2c626ca7fa5858aeaf1edbaf3a542967e94220e"
 metafile = true
 
 [[files]]
@@ -394,6 +399,11 @@ metafile = true
 [[files]]
 file = "mods/create-power-loader.pw.toml"
 hash = "f1e8b22f412b06eee32c2555922ba188dad9cae76d13dad46fa9080b2e763a5f"
+metafile = true
+
+[[files]]
+file = "mods/create-propulsion-simulated.pw.toml"
+hash = "d89b4b4ab53dbb862b01c81fed02e57df013c37b8cd19845245d6a9da6d436c9"
 metafile = true
 
 [[files]]
@@ -772,8 +782,13 @@ hash = "8b725f1822c0feab9e51bef600f2ee6f4c26efbb55aa3ee9073a027f1f134202"
 metafile = true
 
 [[files]]
+file = "mods/polymorphic-energistics.pw.toml"
+hash = "330eae6dd751b70d4761f5fb556bc476f693549f3eb42ff7f441e1cd5bfe3cfb"
+metafile = true
+
+[[files]]
 file = "mods/power-grid.pw.toml"
-hash = "fa43424553f777127c6ce1a50286896c92453c0cfbb085e226a9d3ec808ae450"
+hash = "94f92fecc2a48a76f3fa40672343d676e4b2aac2a905949b4decb7f5aaa37aea"
 metafile = true
 
 [[files]]
