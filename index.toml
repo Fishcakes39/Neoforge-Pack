@@ -152,6 +152,11 @@ hash = "7f866c26282e2a6cadac627952d1e7630a2b808b5308afe183cdf5e4899b05c1"
 metafile = true
 
 [[files]]
+file = "mods/cbcms.pw.toml"
+hash = "3e1b23d9ee2177c075387fb4fc8dfea709e28c3581f3636ef5bbe2e5244aebe0"
+metafile = true
+
+[[files]]
 file = "mods/charm-of-undying.pw.toml"
 hash = "a5a04d39791ce824b7b0b78fd1fa4f08d1584c77c9c52edcb7210439f8917e98"
 metafile = true
@@ -213,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeroworks.pw.toml"
-hash = "4b24d47edfcb0dd5337d524ce9d8d9a1d17b0ed4f200b7353dd381f6be319e3b"
+hash = "5b59a27a9d4aed0926f2cd7a5e147597d69754a3b48eacfa3e1a8c756ae6b317"
 metafile = true
 
 [[files]]
@@ -258,7 +263,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-creating-space.pw.toml"
-hash = "c4d14aa28a49915dc2f46db9c2e2c9385481fcbce4b41edf110ac09fd5173ebd"
+hash = "9cdd92e220ac4606950de20d37eca249f2756d3bc78b686d4222c1d6074d49e5"
 metafile = true
 
 [[files]]
@@ -403,7 +408,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-propulsion-simulated.pw.toml"
-hash = "d89b4b4ab53dbb862b01c81fed02e57df013c37b8cd19845245d6a9da6d436c9"
+hash = "760609d7ae9c33ad2f4b8dfeccc5e872349d3a7c9db03aa76c241737860d3a70"
 metafile = true
 
 [[files]]
@@ -428,7 +433,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-teleporters.pw.toml"
-hash = "5c4515fc4d9e672819e09919a963cdd246383676826e3c3db63f3ecb6c020bed"
+hash = "a5e642a45b8b0d5b8c2fabae671769a42704d9231cf2c20a2e4b2a9fbe6105f3"
 metafile = true
 
 [[files]]
@@ -873,7 +878,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "087c90bc7aef7758cbf698829ac0b8b74a6f862f1918c7f415828524ae210f4c"
+hash = "e8ec0a7577c9e3354b78cc613c2c5e6a9fd708a026869aba82d4ce7fc04bc2e7"
 metafile = true
 
 [[files]]
