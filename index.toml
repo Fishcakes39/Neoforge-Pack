@@ -148,7 +148,7 @@ metafile = true
 
 [[files]]
 file = "mods/cbc-enchanced-shells-create-big-cannons.pw.toml"
-hash = "7f866c26282e2a6cadac627952d1e7630a2b808b5308afe183cdf5e4899b05c1"
+hash = "a08efb95d1e543ce9b94456d42b93c3df77d84d7e6b32320b890f63b70b39cfe"
 metafile = true
 
 [[files]]
@@ -218,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeroworks.pw.toml"
-hash = "5b59a27a9d4aed0926f2cd7a5e147597d69754a3b48eacfa3e1a8c756ae6b317"
+hash = "f9ddfb372457f4dc6b56491825491058b998391374d0da98dddf644e32ba62be"
 metafile = true
 
 [[files]]
@@ -243,7 +243,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-central-kitchen.pw.toml"
-hash = "25b8bdcc9e3aca5c16e79eb3e3deddf7e0c34e5a8038d77c535d948ecfa0661e"
+hash = "404a6f944d9c057e8ea2fd1497298cc9e552191135ee07a8e009058b2707a719"
 metafile = true
 
 [[files]]
@@ -353,7 +353,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-let-the-adventure-begin.pw.toml"
-hash = "8ce8e4ca9787999c2c369d7dc22096fec7e42e5066036e8613f2147924e79734"
+hash = "c27afa0779ec479fe6811153607bf23d9242c2c93e02a23a03b934db4bb3f8c3"
 metafile = true
 
 [[files]]
