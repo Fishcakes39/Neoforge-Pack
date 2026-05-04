@@ -1,0 +1,8 @@
+name = "create-propulsion-simulated"
+filename = "createpropulsion-1.1.1-server-particle-config-fix.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Fishcakes39/Neoforge-Pack/raw/refs/heads/main/curse-jars/createpropulsion-1.1.1-server-particle-config-fix.jar"
+hash-format = "sha256"
+hash = "3ffe2259c9a36f565cd96bfd9470e98687f177643994062ed52ddfe359100fb7"
