@@ -13,10 +13,6 @@ file = "curse-jars/create-otbwg-compat-1.0.jar"
 hash = "aa10666f2f0812d8af419ce60f80f8cf2629f065cb07bdfd15443d168471997c"
 
 [[files]]
-file = "curse-jars/createpropulsion-1.1.1-server-particle-config-fix-v2.jar"
-hash = "81e64b07c9724f77970e5b2aa40dde9e833369766b055a3021a2343188072940"
-
-[[files]]
 file = "curse-jars/protection_pixel-2.2.1-neoforge-1.21.1.jar"
 hash = "a496e6263a0c2cd4341f05a1a71085e467cfe85b453a6aef1c38f614b61129f4"
 
@@ -341,6 +337,11 @@ hash = "453e009587d1dc000d03bd5087ecd4e4d0f1f6fa7b49768ef1ee031a4ad624a9"
 metafile = true
 
 [[files]]
+file = "mods/create-fluid.pw.toml"
+hash = "64241d93f1d7bf3d3e7dabf929dde6507e09ef65f22342dbe0e51fb8a364e12c"
+metafile = true
+
+[[files]]
 file = "mods/create-industry.pw.toml"
 hash = "6cf57a4d0b0d2f7bc04196d22719ca676286d4c1d4435241b7fe9512313a7332"
 metafile = true
@@ -422,7 +423,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-propulsion-simulated.pw.toml"
-hash = "b46ab856d08ffe12133720aa5d47ab3765a58cb4ad3c8eb333df3873a4379610"
+hash = "13c7dd694a592ba34876d015ef9ac7116c25b5de487633ef84a71aefe5c03ade"
 metafile = true
 
 [[files]]
@@ -467,7 +468,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-ultimate-factory.pw.toml"
-hash = "0ad37c7e88d98bb14dda3b148c0c263ea807ebecd729dcdb7f2c307a5e6cd3fa"
+hash = "b8761149eda05aa09fa90b3a8e0cf797faba43c08e42557cafcd55baa2c20cb3"
 metafile = true
 
 [[files]]
