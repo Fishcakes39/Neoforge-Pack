@@ -421,6 +421,11 @@ hash = "f1e8b22f412b06eee32c2555922ba188dad9cae76d13dad46fa9080b2e763a5f"
 metafile = true
 
 [[files]]
+file = "mods/create-propulsion-simulated.pw.toml"
+hash = "b46ab856d08ffe12133720aa5d47ab3765a58cb4ad3c8eb333df3873a4379610"
+metafile = true
+
+[[files]]
 file = "mods/create-stock-bridge.pw.toml"
 hash = "8b3e4dc52381c3f3aa9f1ac5d335da663f8def2732735f57b3684fb35d2ac079"
 metafile = true
