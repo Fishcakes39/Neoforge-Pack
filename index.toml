@@ -13,6 +13,10 @@ file = "curse-jars/create-otbwg-compat-1.0.jar"
 hash = "aa10666f2f0812d8af419ce60f80f8cf2629f065cb07bdfd15443d168471997c"
 
 [[files]]
+file = "curse-jars/createpropulsion-1.1.1-server-particle-config-fix.jar"
+hash = "3ffe2259c9a36f565cd96bfd9470e98687f177643994062ed52ddfe359100fb7"
+
+[[files]]
 file = "curse-jars/protection_pixel-2.2.1-neoforge-1.21.1.jar"
 hash = "a496e6263a0c2cd4341f05a1a71085e467cfe85b453a6aef1c38f614b61129f4"
 
@@ -414,11 +418,6 @@ metafile = true
 [[files]]
 file = "mods/create-power-loader.pw.toml"
 hash = "f1e8b22f412b06eee32c2555922ba188dad9cae76d13dad46fa9080b2e763a5f"
-metafile = true
-
-[[files]]
-file = "mods/create-propulsion-simulated.pw.toml"
-hash = "2392ca8ae314520b19df70dee987ab3b862814ece285d0805138f26e837df036"
 metafile = true
 
 [[files]]
