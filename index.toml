@@ -263,7 +263,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-connected.pw.toml"
-hash = "3b12e639fef9a821167533b31a54df9af083fd89a8a30e36607cbb24015c79e7"
+hash = "ef8d585b48dc476a325d84d56c289fb374a9513c68af16681db9660457f2440c"
 metafile = true
 
 [[files]]
@@ -338,7 +338,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fluid.pw.toml"
-hash = "64241d93f1d7bf3d3e7dabf929dde6507e09ef65f22342dbe0e51fb8a364e12c"
+hash = "e052625e3e4b4b5565b549e8114b8f0d7c6da9db46ae7e93601700b2d02047eb"
 metafile = true
 
 [[files]]
@@ -424,6 +424,11 @@ metafile = true
 [[files]]
 file = "mods/create-propulsion-simulated.pw.toml"
 hash = "13c7dd694a592ba34876d015ef9ac7116c25b5de487633ef84a71aefe5c03ade"
+metafile = true
+
+[[files]]
+file = "mods/create-radars.pw.toml"
+hash = "4b24bbabddbc3549a46f467ef62660e61a17ca96e4bf9703f055162fdb03806f"
 metafile = true
 
 [[files]]
@@ -693,7 +698,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "395ed890024bdb90e7c0fed1edf8b3905a367942ded954fca92384c76a7e5601"
+hash = "aef79b9deb5d4f2921ef8e4d58df69d8b71eaaded52149ed6aca41f0cf225be9"
 metafile = true
 
 [[files]]
@@ -848,7 +853,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "3b701ee3561dcbcd81d7b73695e515d302d87a0944218c340f5ccc8e1b390152"
+hash = "7ae13b171ccba24c8ab09da63389eadada6bc902db9b957e9b9acd46605a17f6"
 metafile = true
 
 [[files]]
@@ -903,7 +908,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "96e5c52b0fafd54183e29b3ab1d8df8f1e09a46045afe0d35d19274c07c59d80"
+hash = "dcce7f37c9f3da5854b4124285bf9cbfa9e4860de6ca1771e70e89c1b7601f1e"
 metafile = true
 
 [[files]]
@@ -953,12 +958,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "2005910c6e285434a7805a7b93c6c1a125594382f8e542711f2fc655ba1209d6"
+hash = "585d1ac3e487d24ddaece1660bf969b99d0892dd2925e440d0b342b7c94cbdf9"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "36f797c137ff0a6b652d308a37a07bab9eac036be65c6aae0116174e62740097"
+hash = "9e08f657c7848e0d35504e62657907248c0741df82f2d52b0222da79dc0fbe20"
 metafile = true
 
 [[files]]
@@ -968,7 +973,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "52a3fac02c444ec095636d96f2a1e4e67c3b9cba2de8243f7e76ec4ed435163f"
+hash = "d9151c58ba7dd9613bad6613a09508e86affac433652ff2fd38d907a95668649"
 metafile = true
 
 [[files]]
@@ -1028,15 +1033,15 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "85d6b116578d44c074435499759f7be6090f1b2c131f129ae3127939591c1b78"
+hash = "ea9e77902bbd4da3fe52205134287ef64ed484458e5031c61ad6e89024639c1f"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "01562e27f0c92ebf98eb6aaaace3c14fef18c734a6c65bda8101b8d3c640e12f"
+hash = "c129b31143323e9a97c616a8f67fcd3e9db422fa15ec9b50476131a226c3caf2"
 metafile = true
 
 [[files]]
 file = "mods/zeta.pw.toml"
-hash = "dd9eb796545bbc04a65a67224095336c360b6a7733767283215abc201d0c1ecf"
+hash = "d1baffd370868590fcb2785146c278df5781d20994022749c53c0f9b2bffc7fc"
 metafile = true
