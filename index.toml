@@ -223,7 +223,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeroworks.pw.toml"
-hash = "f9ddfb372457f4dc6b56491825491058b998391374d0da98dddf644e32ba62be"
+hash = "68bec75bb847714803cb05eb5e4614123570efb3bb9a134ef487c3d7a153d8a0"
 metafile = true
 
 [[files]]
@@ -423,7 +423,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-propulsion-simulated.pw.toml"
-hash = "13c7dd694a592ba34876d015ef9ac7116c25b5de487633ef84a71aefe5c03ade"
+hash = "6c80526c747de9b93613dd4633444c52c6f33af8353c04e78bbf8616917459d6"
 metafile = true
 
 [[files]]
@@ -469,6 +469,11 @@ metafile = true
 [[files]]
 file = "mods/create-train-parts.pw.toml"
 hash = "c6abf0b9e9455e965b3a5a8b0e02e69da749fe39ba3ca35c32bd72fecdfb6e32"
+metafile = true
+
+[[files]]
+file = "mods/create-tweaked-controllers.pw.toml"
+hash = "ace252b6b7f35f95dd486c4c38125be1ab4e5dd0edc30c7c665411f739c971f7"
 metafile = true
 
 [[files]]
