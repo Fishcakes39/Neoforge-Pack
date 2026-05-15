@@ -488,7 +488,7 @@ metafile = true
 
 [[files]]
 file = "mods/creator-sword.pw.toml"
-hash = "300e6cecceac639f678b344d935182c8979b771ae795429a8ce718b2db6675f6"
+hash = "72a2a8d56dcad150f3ac32e33c05bded99730844d6bc40971382dedc0db3e666"
 metafile = true
 
 [[files]]
@@ -639,16 +639,6 @@ metafile = true
 [[files]]
 file = "mods/improvable-skills.pw.toml"
 hash = "9bdb65981e4b9a93c82021d509ae02a3dcd18402ba9f579571fa44974b27d118"
-metafile = true
-
-[[files]]
-file = "mods/integrated-api.pw.toml"
-hash = "6c32b08de9fe127254e7dfd1bb8bf863d941d910be639012a7ffaa7a6d234c22"
-metafile = true
-
-[[files]]
-file = "mods/integrated-villages.pw.toml"
-hash = "2ca8c05fa127c06f1e2e2a7fcc2a9f54549e42ffb72838358fe50ea9a65c5475"
 metafile = true
 
 [[files]]
@@ -944,6 +934,11 @@ metafile = true
 [[files]]
 file = "mods/sparkweave.pw.toml"
 hash = "539d9b8eab98c3dd8cabc69e39f1560fc0118887cdce84fbcabd66704a72855a"
+metafile = true
+
+[[files]]
+file = "mods/steam-n-rails-neoforge.pw.toml"
+hash = "ff0bcf358006b6a6a55c406ba2409cf14bbba5bb99d8a5122abcc8b1ade85f04"
 metafile = true
 
 [[files]]
