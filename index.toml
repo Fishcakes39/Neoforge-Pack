@@ -148,7 +148,7 @@ metafile = true
 
 [[files]]
 file = "mods/cbc-enchanced-shells-create-big-cannons.pw.toml"
-hash = "a08efb95d1e543ce9b94456d42b93c3df77d84d7e6b32320b890f63b70b39cfe"
+hash = "6c8a7689ffcee69971ac7644992af1dd3693ee2a48dda6c34f619240e22d1836"
 metafile = true
 
 [[files]]
@@ -164,6 +164,16 @@ metafile = true
 [[files]]
 file = "mods/chloride.pw.toml"
 hash = "0fef266808940494562e5409ee367db71095f96ba3f56ab8b352aea2238f231b"
+metafile = true
+
+[[files]]
+file = "mods/choicetheorems-overhauled-village.pw.toml"
+hash = "000217304bbb5971cb9dde9081fcb5ea92cc7edcae83321effdcd92b36e2f490"
+metafile = true
+
+[[files]]
+file = "mods/chunky-pregenerator-forge.pw.toml"
+hash = "7be63eaec6a70605f2f21cc30f0889fb27978c2e2fe62ee4584210502289e77d"
 metafile = true
 
 [[files]]
@@ -338,7 +348,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fluid.pw.toml"
-hash = "e052625e3e4b4b5565b549e8114b8f0d7c6da9db46ae7e93601700b2d02047eb"
+hash = "53c4483b169c36331cd0778ecabd64f232b1cd760755c32f67d6da6f5efde3b2"
 metafile = true
 
 [[files]]
@@ -359,11 +369,6 @@ metafile = true
 [[files]]
 file = "mods/create-lazytick.pw.toml"
 hash = "1abcd9f5b4280cdd4de5b72680638dd49024a67191d6199dafa4257e9280a015"
-metafile = true
-
-[[files]]
-file = "mods/create-let-the-adventure-begin.pw.toml"
-hash = "c27afa0779ec479fe6811153607bf23d9242c2c93e02a23a03b934db4bb3f8c3"
 metafile = true
 
 [[files]]
@@ -407,18 +412,13 @@ hash = "cba6d7d04b6068e326445672253580520a87873fc1065f7682984a9b9d91deb5"
 metafile = true
 
 [[files]]
-file = "mods/create-otbwg-compat.pw.toml"
-hash = "e9d91b2c88be0d7b1f602d3797b95d9e3d0f59c1419a9ac55d2e2af98fcd2428"
-metafile = true
-
-[[files]]
 file = "mods/create-pantographs-and-wires.pw.toml"
 hash = "ed151d54bd3d7deaad8d573901d7c1250412902ff397b74daf627a68eab565b2"
 metafile = true
 
 [[files]]
 file = "mods/create-power-loader.pw.toml"
-hash = "f1e8b22f412b06eee32c2555922ba188dad9cae76d13dad46fa9080b2e763a5f"
+hash = "db94f7d57c4075955a053649041dc386da67c6b37a92ba2984dca129707249fc"
 metafile = true
 
 [[files]]
@@ -439,16 +439,6 @@ metafile = true
 [[files]]
 file = "mods/create-storage-neo-forge.pw.toml"
 hash = "bd299288ee051bd7513b3f5c19357e48b486dbcd3d3e3b0b6a510a4afba47b02"
-metafile = true
-
-[[files]]
-file = "mods/create-structures-arise.pw.toml"
-hash = "56fb3889f1962712701a38e088da74557591d507fb3b018d63624841721091e2"
-metafile = true
-
-[[files]]
-file = "mods/create-structures-overhaul.pw.toml"
-hash = "abdffe7d19bd5f08bea9a1c4689d5c807302e513977164bac3586ee3ef16be5a"
 metafile = true
 
 [[files]]
@@ -657,11 +647,6 @@ hash = "6c32b08de9fe127254e7dfd1bb8bf863d941d910be639012a7ffaa7a6d234c22"
 metafile = true
 
 [[files]]
-file = "mods/integrated-stronghold.pw.toml"
-hash = "393599b201dad57245cba41db57262dd43b2ddcecc2ef8ea8ee09ddb28a926c0"
-metafile = true
-
-[[files]]
 file = "mods/integrated-villages.pw.toml"
 hash = "2ca8c05fa127c06f1e2e2a7fcc2a9f54549e42ffb72838358fe50ea9a65c5475"
 metafile = true
@@ -703,7 +688,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "aef79b9deb5d4f2921ef8e4d58df69d8b71eaaded52149ed6aca41f0cf225be9"
+hash = "018fd970193f808f8c28f873d8b8c69ac9ba134712c7db27fc8d639cb226c9a6"
 metafile = true
 
 [[files]]
@@ -714,21 +699,6 @@ metafile = true
 [[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "0c92a3670d2a7a0f013ca6741b75bd8b87c363eb3595d0d43a750b5fb09bf210"
-metafile = true
-
-[[files]]
-file = "mods/loot-integrations-integrated-dungeons-villages.pw.toml"
-hash = "0482e4149cbb3753e95aa7eeccad98f912cdb15787f334752872bc6308b18e31"
-metafile = true
-
-[[files]]
-file = "mods/loot-integrations-yggdrasils.pw.toml"
-hash = "cab2962040b7f498ea28a01bc76dcd18a500ba1479f16876288b267f7c355983"
-metafile = true
-
-[[files]]
-file = "mods/loot-integrations.pw.toml"
-hash = "543b8a8ff5796648146f3102dea686e806f793052d329d0fa3efee8194d4df52"
 metafile = true
 
 [[files]]
@@ -774,21 +744,6 @@ metafile = true
 [[files]]
 file = "mods/nneoenchant-addons-structure.pw.toml"
 hash = "309ac0fbf3d8e0f7400dca1ffebb8248dac17d344d415ffffa0b06bcf00bc9ea"
-metafile = true
-
-[[files]]
-file = "mods/noisiumforked.pw.toml"
-hash = "9c93eb7b597436c3f71fd4c19121633146776c50b7c9b3b06c7dc9441d722da9"
-metafile = true
-
-[[files]]
-file = "mods/oh-the-biomes-weve-gone.pw.toml"
-hash = "e52ed662249cff6b007ff195d331e0589fe18351dbb0f522fd9eb1f52eb22ee8"
-metafile = true
-
-[[files]]
-file = "mods/oh-the-trees-youll-grow.pw.toml"
-hash = "b3f6b603edd97a2974eaa05aa897beb3701e2f0c517dc783a22f66d69e3c97ad"
 metafile = true
 
 [[files]]
@@ -913,7 +868,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "dcce7f37c9f3da5854b4124285bf9cbfa9e4860de6ca1771e70e89c1b7601f1e"
+hash = "f976d7d2c775dce187e8c8afa7d8fc004c70d2b8e0f48efcc2e57ab4c00171ce"
 metafile = true
 
 [[files]]
@@ -963,12 +918,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "585d1ac3e487d24ddaece1660bf969b99d0892dd2925e440d0b342b7c94cbdf9"
+hash = "e5c93ef7ac08fe360c200c41618ccbe02ed1288db03a14ee0e8c88d59dc14ce0"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "9e08f657c7848e0d35504e62657907248c0741df82f2d52b0222da79dc0fbe20"
+hash = "7f7ef360ee12ecfcf5597534a8cb16bb25604ef0fee11aecd6456d03781642a9"
 metafile = true
 
 [[files]]
@@ -978,7 +933,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "d9151c58ba7dd9613bad6613a09508e86affac433652ff2fd38d907a95668649"
+hash = "8846dbb6023f6faf35766fb04a342ce0974390eaa0a05402397a4d2d8478831f"
 metafile = true
 
 [[files]]
@@ -1012,8 +967,13 @@ hash = "6563a5df8120c7b0d7140a8e9baef797e2695e188eaff14c54001a9da682dfce"
 metafile = true
 
 [[files]]
-file = "mods/terrablender-neoforge.pw.toml"
-hash = "d77e4dc337b6090358c1ef01b0f99a8357e5279443e0e23e511de1be865c01c9"
+file = "mods/tectonic.pw.toml"
+hash = "cbbc06cd921b629776f574566af0b5dbd58819fad7513cfaac2967d3fb750845"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "0e02e93b9468dca005f7fea385e92612e38bb6807f4dcd64ce7a4b22fac78581"
 metafile = true
 
 [[files]]
@@ -1054,4 +1014,9 @@ metafile = true
 [[files]]
 file = "mods/zeta.pw.toml"
 hash = "d1baffd370868590fcb2785146c278df5781d20994022749c53c0f9b2bffc7fc"
+metafile = true
+
+[[files]]
+file = "mods/zfastnoise.pw.toml"
+hash = "4aa00e05b9d88b1e06b5efc21f7f2784017ce632729f32d717c01624a19bc96b"
 metafile = true
