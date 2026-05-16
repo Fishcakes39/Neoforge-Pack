@@ -167,11 +167,6 @@ hash = "0fef266808940494562e5409ee367db71095f96ba3f56ab8b352aea2238f231b"
 metafile = true
 
 [[files]]
-file = "mods/choicetheorems-overhauled-village.pw.toml"
-hash = "000217304bbb5971cb9dde9081fcb5ea92cc7edcae83321effdcd92b36e2f490"
-metafile = true
-
-[[files]]
 file = "mods/chunky-pregenerator-forge.pw.toml"
 hash = "7be63eaec6a70605f2f21cc30f0889fb27978c2e2fe62ee4584210502289e77d"
 metafile = true
@@ -194,11 +189,6 @@ metafile = true
 [[files]]
 file = "mods/compat-api.pw.toml"
 hash = "45fd9d336caa62aa1cd9ca477baad3168c407c0f3ac366700975242db86ec7a9"
-metafile = true
-
-[[files]]
-file = "mods/compat-structure.pw.toml"
-hash = "4471f044739ed8a611555bf2527dfff000ab556063b140f79dba67aa58d9cc26"
 metafile = true
 
 [[files]]
@@ -317,11 +307,6 @@ hash = "56ff7fa56eb6ae7d32cdd1f7ce84022d1ed25b416dd9142572ef0d2360d49ec9"
 metafile = true
 
 [[files]]
-file = "mods/create-easy-structures.pw.toml"
-hash = "5b610876dae9779654c74b1a71d15c0303a39eb62459201921b30f4731985e18"
-metafile = true
-
-[[files]]
 file = "mods/create-enchantable-machinery.pw.toml"
 hash = "c56e9d5e16752de3d7c4db6c1afb1a89d714e831b151c0ff2c8ae58e8756dd4b"
 metafile = true
@@ -369,11 +354,6 @@ metafile = true
 [[files]]
 file = "mods/create-lazytick.pw.toml"
 hash = "1abcd9f5b4280cdd4de5b72680638dd49024a67191d6199dafa4257e9280a015"
-metafile = true
-
-[[files]]
-file = "mods/create-mechanical-companion.pw.toml"
-hash = "8dc64c9e4b9e59e6fa87ec37ba3578247efaf9d664529dfb1ae2ee9f28bbdb06"
 metafile = true
 
 [[files]]
