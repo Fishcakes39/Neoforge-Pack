@@ -357,6 +357,11 @@ hash = "1abcd9f5b4280cdd4de5b72680638dd49024a67191d6199dafa4257e9280a015"
 metafile = true
 
 [[files]]
+file = "mods/create-let-the-adventure-begin.pw.toml"
+hash = "39eb7218cb7cc53f03ca63f9a382e70ce6890bf31105548f632ce0d8f37b010e"
+metafile = true
+
+[[files]]
 file = "mods/create-misc-and-things.pw.toml"
 hash = "3e5b740a6fdc7b981eb2537956b8d062d57e40a3809c0440f668455d52cd4a1d"
 metafile = true
@@ -602,6 +607,11 @@ hash = "5801876150a830f0d8d5f15e19d33ac3c2adbc13d61cbf5d727877a4e9794433"
 metafile = true
 
 [[files]]
+file = "mods/idas.pw.toml"
+hash = "29173b6f27b0c520d09b6bf6f15b3f58ba14e84fef75c0198e3bf03bdf423c6b"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "0a340d62ec786133c1cc6f40d86655a77055461ad65390a8679be294279d6f94"
 metafile = true
@@ -614,6 +624,11 @@ metafile = true
 [[files]]
 file = "mods/improvable-skills.pw.toml"
 hash = "9bdb65981e4b9a93c82021d509ae02a3dcd18402ba9f579571fa44974b27d118"
+metafile = true
+
+[[files]]
+file = "mods/integrated-api.pw.toml"
+hash = "6c32b08de9fe127254e7dfd1bb8bf863d941d910be639012a7ffaa7a6d234c22"
 metafile = true
 
 [[files]]
@@ -709,6 +724,16 @@ metafile = true
 [[files]]
 file = "mods/nneoenchant-addons-structure.pw.toml"
 hash = "309ac0fbf3d8e0f7400dca1ffebb8248dac17d344d415ffffa0b06bcf00bc9ea"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-biomes-weve-gone.pw.toml"
+hash = "e52ed662249cff6b007ff195d331e0589fe18351dbb0f522fd9eb1f52eb22ee8"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-trees-youll-grow.pw.toml"
+hash = "966dde29551f96d0cdec76c659bdec9b5a16c4a102ed053cb5a6e1e36860c75a"
 metafile = true
 
 [[files]]
@@ -937,8 +962,8 @@ hash = "6563a5df8120c7b0d7140a8e9baef797e2695e188eaff14c54001a9da682dfce"
 metafile = true
 
 [[files]]
-file = "mods/tectonic.pw.toml"
-hash = "cbbc06cd921b629776f574566af0b5dbd58819fad7513cfaac2967d3fb750845"
+file = "mods/terrablender-neoforge.pw.toml"
+hash = "d77e4dc337b6090358c1ef01b0f99a8357e5279443e0e23e511de1be865c01c9"
 metafile = true
 
 [[files]]
