@@ -403,12 +403,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-propulsion-simulated.pw.toml"
-hash = "6c80526c747de9b93613dd4633444c52c6f33af8353c04e78bbf8616917459d6"
+hash = "3fd629d483c750e80a6e450ce0f350b5a15dc6d206fbe7124d5230abd7f164ac"
 metafile = true
 
 [[files]]
 file = "mods/create-radars.pw.toml"
-hash = "4b24bbabddbc3549a46f467ef62660e61a17ca96e4bf9703f055162fdb03806f"
+hash = "db88aac3a4227b401e8ceb8994c3b4bee4e579471b91b3cab0edc225e1b49806"
 metafile = true
 
 [[files]]
@@ -494,6 +494,11 @@ metafile = true
 [[files]]
 file = "mods/dragonlib.pw.toml"
 hash = "40c25efbb69e526bd84e17da231501efbdea1305adc7ab27c3601971aebb1308"
+metafile = true
+
+[[files]]
+file = "mods/drive-by-wire-with-sable.pw.toml"
+hash = "df0f985054d2a4167a5325a2df2801d7439afe6adbdc6af42ca96ec7040019fc"
 metafile = true
 
 [[files]]
@@ -822,6 +827,11 @@ hash = "c62b51a8248d15e3cb63880ac123a92dd6a67973a1eafc4c4cb09f3f74481f78"
 metafile = true
 
 [[files]]
+file = "mods/sable-schematic-tool.pw.toml"
+hash = "fb925748b1996bacd0ca00ab576e3ee3f561e29adfacb5100807d1c0c5eca4f1"
+metafile = true
+
+[[files]]
 file = "mods/sable.pw.toml"
 hash = "e8ec0a7577c9e3354b78cc613c2c5e6a9fd708a026869aba82d4ce7fc04bc2e7"
 metafile = true
@@ -937,6 +947,11 @@ hash = "6563a5df8120c7b0d7140a8e9baef797e2695e188eaff14c54001a9da682dfce"
 metafile = true
 
 [[files]]
+file = "mods/synaxis.pw.toml"
+hash = "16a7c7af9f6af4edff3cffb892b60f50ab0f2387917c934403758a0e06912437"
+metafile = true
+
+[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "cbbc06cd921b629776f574566af0b5dbd58819fad7513cfaac2967d3fb750845"
 metafile = true
@@ -973,7 +988,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "85d6b116578d44c074435499759f7be6090f1b2c131f129ae3127939591c1b78"
+hash = "d6e007f5dfe86aaf2451e403d40211ddd2ac526ceab49a3929bded51b5658e0a"
 metafile = true
 
 [[files]]
