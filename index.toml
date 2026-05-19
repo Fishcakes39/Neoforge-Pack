@@ -287,6 +287,11 @@ hash = "900880f684238d2489dc6859c354abc7b145c617dbdac42e1873604632b9c831"
 metafile = true
 
 [[files]]
+file = "mods/create-deep-seas.pw.toml"
+hash = "b554f621af4698755f161267fdc61db8096c4f284f746b7f62075c9ca123fcae"
+metafile = true
+
+[[files]]
 file = "mods/create-diesel-generators.pw.toml"
 hash = "50663223d2325f84a904ab5aff8bf1078bf7a7d7756e96fd3722589e0ead2dae"
 metafile = true
