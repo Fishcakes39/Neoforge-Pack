@@ -212,13 +212,18 @@ hash = "db31dff8f093aa140e650449c292b8305743a3c6aa4dd23be942f2be7f58d60f"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics-ftb-chunks.pw.toml"
+hash = "d2ae1ed8ab5ed174ed3aff38062795975246be4e852245237ac1007db7a084b3"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics-portable-engine-liquid-fuel.pw.toml"
 hash = "0e03964744cbccd2a9dd556690463b77dbe83633f9d4f755ead9efc32a090519"
 metafile = true
 
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
-hash = "6ea6284b569b13f45bfe44f9790389de4a2f7cda92c8b3bb94511b600d64c486"
+hash = "6cabae8686cf85c826d1280f00e00d67bb7672d353f669bea9f3775de39dd378"
 metafile = true
 
 [[files]]
@@ -298,7 +303,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-diesel-generators.pw.toml"
-hash = "50663223d2325f84a904ab5aff8bf1078bf7a7d7756e96fd3722589e0ead2dae"
+hash = "fdd3944637a4fc9c986bc93d43ba2ba31b84629c9d2e651fa49e82cd43f08b02"
 metafile = true
 
 [[files]]
@@ -554,6 +559,11 @@ metafile = true
 [[files]]
 file = "mods/formicapi.pw.toml"
 hash = "62fcb4cdace83f896ef9569b084a3651ff2a0f7f9f87d22b68acd7d19189307a"
+metafile = true
+
+[[files]]
+file = "mods/ftb-chunks-forge.pw.toml"
+hash = "100d56915243e9a577ec572cc118628e3bef2f1e7be015585335d307dbb5dc19"
 metafile = true
 
 [[files]]
