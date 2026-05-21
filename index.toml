@@ -148,7 +148,7 @@ metafile = true
 
 [[files]]
 file = "mods/cbc-enchanced-shells-create-big-cannons.pw.toml"
-hash = "6c8a7689ffcee69971ac7644992af1dd3693ee2a48dda6c34f619240e22d1836"
+hash = "4b1ebb4245e34d26929a8ae9985127a5a6ebb8f004c4c01b1c70ea9898d4dc71"
 metafile = true
 
 [[files]]
@@ -219,6 +219,11 @@ metafile = true
 [[files]]
 file = "mods/create-aeronautics-portable-engine-liquid-fuel.pw.toml"
 hash = "0e03964744cbccd2a9dd556690463b77dbe83633f9d4f755ead9efc32a090519"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-throwable-rope-connector.pw.toml"
+hash = "1fdc8a4d510a6b038e449ff0ed9617e07407bb32b30f2ffd383ed7a8fa193193"
 metafile = true
 
 [[files]]
