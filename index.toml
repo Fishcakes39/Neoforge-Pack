@@ -253,7 +253,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
-hash = "59beba57945e374108e22789e8fc32d2758174929ebd9bf17fc139956dc32e30"
+hash = "5fab8d2e412683dfd72f08cf6750e51b03cb43192e8eb783e962ba28d20978bc"
 metafile = true
 
 [[files]]
@@ -473,7 +473,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-sky-village.pw.toml"
-hash = "a6bd82785c25839da2a34c45a73c09a896c14e7624ee3ed5448159b745a286be"
+hash = "52c16e839d26fb14ae1ceff26d16fd49f42db7658296b43c1161402e545f9cb8"
 metafile = true
 
 [[files]]
@@ -488,7 +488,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-structures-arise.pw.toml"
-hash = "8621d1204a1c3a7ba4819f58f6d29398678d94d35946bcd320e98fe572c4124a"
+hash = "bd48df02197c531fc58f203c2b6616f8327f5c18208414060e24b12e93c8afe0"
 metafile = true
 
 [[files]]
