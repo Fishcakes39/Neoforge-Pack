@@ -1,20 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "curse-jars/V0-NeoEnchant-5.14.0.jar"
-hash = "f2302c2c56f34a34d245cb9c4d382c37af3d81788504fcad64811cfdc5a78156"
-
-[[files]]
 file = "curse-jars/ae_universal_press-1.6-neoforge-1.21.1.jar"
 hash = "b8f7fc6512eeb7b98c7322348f68039476bc96b0060b6967b8188b97cd3a3884"
 
 [[files]]
-file = "curse-jars/create-otbwg-compat-1.0.jar"
-hash = "aa10666f2f0812d8af419ce60f80f8cf2629f065cb07bdfd15443d168471997c"
-
-[[files]]
-file = "curse-jars/protection_pixel-2.2.1-neoforge-1.21.1.jar"
-hash = "a496e6263a0c2cd4341f05a1a71085e467cfe85b453a6aef1c38f614b61129f4"
+file = "curse-jars/midgard-1.0.0.jar"
+hash = "4d4ee00ff529c8e973f78427557c60735e24864d66da1741ba12b18ef43ac1f6"
 
 [[files]]
 file = "mods/accessories.pw.toml"
@@ -134,6 +126,11 @@ metafile = true
 [[files]]
 file = "mods/baguettelib.pw.toml"
 hash = "1a52b3a6071fa86dc0854189e110e7dd6c27c0944856fee39a781f58275e1cdd"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "3595ba816c9ef014350d0072b90715d99cda633c0b3c8aee7a64ce3402ade5de"
 metafile = true
 
 [[files]]
@@ -522,6 +519,11 @@ hash = "b8761149eda05aa09fa90b3a8e0cf797faba43c08e42557cafcd55baa2c20cb3"
 metafile = true
 
 [[files]]
+file = "mods/create-waystones-recipes.pw.toml"
+hash = "12436692cd54822658ea304758483411e0bb999a6a339fa1b273d8ccaef05881"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
 metafile = true
@@ -872,11 +874,6 @@ hash = "eab2f56ff9135b3b7253ea5a73deae2f887e2876f5f0432936044a6e926937b4"
 metafile = true
 
 [[files]]
-file = "mods/protection-pixel.pw.toml"
-hash = "a3dc17302b6cb1e78b21ec925f24db8894a3346794732fe3ff01dbabea46c882"
-metafile = true
-
-[[files]]
 file = "mods/puffish-attributes.pw.toml"
 hash = "15ee389c711499d6ac90048c882577c24411ebd6bd1e70b49aef601fcc3b3a09"
 metafile = true
@@ -969,11 +966,6 @@ metafile = true
 [[files]]
 file = "mods/simply-tooltips.pw.toml"
 hash = "529ad0d8a91e6cdbd8e9460f80ad9f4bcb393020749632c2ff77e6835c812a4b"
-metafile = true
-
-[[files]]
-file = "mods/small-ships.pw.toml"
-hash = "dc7140923a01338926a9bea3708b12ddc2599c1bb6c52b5dc624dbdcdde9385e"
 metafile = true
 
 [[files]]
@@ -1092,6 +1084,16 @@ hash = "e6b6c32aaf0887b85877328f2b54d9525d418c32751809187979f3de6ed70581"
 metafile = true
 
 [[files]]
+file = "mods/waystones-sable.pw.toml"
+hash = "23fcbec4fa6a10db799090b3337597fa3d2508b18e120f4b42d0146854692a04"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "a30086884843ddcd5b0f5d3d82d0942341c8bdc09adf3198a0621ab4751f7c16"
+metafile = true
+
+[[files]]
 file = "mods/worldweaver-neoforge.pw.toml"
 hash = "355ebac0e6f61e2633de37d66bcafc53a7cb7fe842efd9b2fa15d7892b68c6f3"
 metafile = true
@@ -1099,6 +1101,11 @@ metafile = true
 [[files]]
 file = "mods/wunderlib-neoforge.pw.toml"
 hash = "2db6150114a149ac922dda026392b401969e31bd4b93e28c44296a9ec712bd65"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap-world-map-waystones-compability.pw.toml"
+hash = "9e786f3bb7ecf3a96cf865830c2cf6e4cf860dfc0372c668be5ca85147f3026a"
 metafile = true
 
 [[files]]
