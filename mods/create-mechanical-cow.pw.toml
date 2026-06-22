@@ -1,0 +1,13 @@
+name = "Create Mechanical Cow"
+filename = "mechanical_cow-1.21.1-1.2.1-6.0.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4108d96bf0b5bd8e49b7e8818969f4779439db42"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8292973
+project-id = 1241678
