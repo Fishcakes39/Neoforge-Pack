@@ -540,7 +540,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-wizardry.pw.toml"
-hash = "a12fc3a27919f84a0f8d0f6f057171dbdecb9802a41578b5852de99e95eac4b5"
+hash = "bdb6c25c98df4589ba769980d10e0386ca898fb115756057dd6725ff45e12830"
 metafile = true
 
 [[files]]
