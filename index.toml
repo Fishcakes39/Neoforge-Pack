@@ -539,6 +539,11 @@ hash = "12436692cd54822658ea304758483411e0bb999a6a339fa1b273d8ccaef05881"
 metafile = true
 
 [[files]]
+file = "mods/create-wizardry.pw.toml"
+hash = "a12fc3a27919f84a0f8d0f6f057171dbdecb9802a41578b5852de99e95eac4b5"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
 metafile = true
@@ -729,6 +734,26 @@ hash = "53159263ccae7934aa5cc7d59b6c791bdb9af8a85d4c01e5101bac3cf8e3a575"
 metafile = true
 
 [[files]]
+file = "mods/irons-lib.pw.toml"
+hash = "1b23f5a7defc103d67d16db0053ff2f6240436bb0d682f760865b590e3416a65"
+metafile = true
+
+[[files]]
+file = "mods/irons-spells-n-spellbooks-aeronautics.pw.toml"
+hash = "9fd76ce4151b3ebf90f9f040fec4704558c3c64ebf6bfc9f4e4f128902f29e1d"
+metafile = true
+
+[[files]]
+file = "mods/irons-spells-n-spellbooks-dynamic-skill-trees.pw.toml"
+hash = "5223b2969cc02e6f09a3f40d41f32c8c1cc3d51ccf47bc164ec29c209f728415"
+metafile = true
+
+[[files]]
+file = "mods/irons-spells-n-spellbooks.pw.toml"
+hash = "459e5a912d2f0115a17acc137a294a76c75de33214137be16a3adca54828564d"
+metafile = true
+
+[[files]]
 file = "mods/jade-sable-compat.pw.toml"
 hash = "ae86b446abb40c5dfdada0632927895bf82147aafef9829dff9ed6ca098f7a92"
 metafile = true
@@ -886,6 +911,11 @@ metafile = true
 [[files]]
 file = "mods/prickle.pw.toml"
 hash = "eab2f56ff9135b3b7253ea5a73deae2f887e2876f5f0432936044a6e926937b4"
+metafile = true
+
+[[files]]
+file = "mods/pufferfishs-unofficial-additions.pw.toml"
+hash = "a682457eee28dc0eacc0a52cd3dcaa9db19bd6a8adc45fd7baadefe15b96260b"
 metafile = true
 
 [[files]]
