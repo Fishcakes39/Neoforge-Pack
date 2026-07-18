@@ -9,11 +9,6 @@ file = "curse-jars/midgard-1.0.0.jar"
 hash = "4d4ee00ff529c8e973f78427557c60735e24864d66da1741ba12b18ef43ac1f6"
 
 [[files]]
-file = "mods/accessories.pw.toml"
-hash = "39ec3cac812f819f45b88a70f6b83eb8c0e6007e9272bbccfb3f364b421d2631"
-metafile = true
-
-[[files]]
 file = "mods/advanced-netherite.pw.toml"
 hash = "ff3ae9bae59b91406577910119f4eeab80a6148f0fb661a3e88cf819943b20d2"
 metafile = true
@@ -56,11 +51,6 @@ metafile = true
 [[files]]
 file = "mods/amendments.pw.toml"
 hash = "f50e9b66d0be7909fd407bf2e0b572ae04a26be595535dd8e1414a990bc890d2"
-metafile = true
-
-[[files]]
-file = "mods/anvilcore-.pw.toml"
-hash = "25a5857812d5463fbc3c7590b3dc1e5455873ba3606ee8a3aeeafefec5081a7a"
 metafile = true
 
 [[files]]
@@ -159,11 +149,6 @@ hash = "f75f946469a16f1640622c2bdecbd8a6dafa0876bf7f1000332abd1328e15ef5"
 metafile = true
 
 [[files]]
-file = "mods/better-library.pw.toml"
-hash = "8314d22876d3edccef2f2780a27ef63ed35fe3f761f537eeb215795e5edc053b"
-metafile = true
-
-[[files]]
 file = "mods/betterend-neoforge.pw.toml"
 hash = "eff1683ccb86208880b79e5c7e757a7987be985be9a1e088c40d2339fbf7dac4"
 metafile = true
@@ -221,11 +206,6 @@ metafile = true
 [[files]]
 file = "mods/common-network.pw.toml"
 hash = "e5052ab66811e9217d662d712781796c72f7105fbbc81e1de3469ccf6178d5a0"
-metafile = true
-
-[[files]]
-file = "mods/compat-api.pw.toml"
-hash = "45fd9d336caa62aa1cd9ca477baad3168c407c0f3ac366700975242db86ec7a9"
 metafile = true
 
 [[files]]
@@ -879,11 +859,6 @@ hash = "966dde29551f96d0cdec76c659bdec9b5a16c4a102ed053cb5a6e1e36860c75a"
 metafile = true
 
 [[files]]
-file = "mods/owo-lib.pw.toml"
-hash = "3db5943419e6b6f4e33946266be8797230434573bc68dbe3a77d72f19001ae0c"
-metafile = true
-
-[[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "75d42d0a0bcfbcce376fb229f72b75e3a40592fdff5490b997c19ef439a9c832"
 metafile = true
@@ -1074,11 +1049,6 @@ hash = "6d9eaf43c14c66465e87bf03cc5cb5ecef57b3f2e8063c52f6332d33689d30be"
 metafile = true
 
 [[files]]
-file = "mods/sparkweave.pw.toml"
-hash = "539d9b8eab98c3dd8cabc69e39f1560fc0118887cdce84fbcabd66704a72855a"
-metafile = true
-
-[[files]]
 file = "mods/steam-n-rails-neoforge.pw.toml"
 hash = "d452fac667bc125262ec97a16c71275bd4b8bde26101a67508ee3fb2e4e68306"
 metafile = true
@@ -1146,11 +1116,6 @@ metafile = true
 [[files]]
 file = "mods/wunderlib-neoforge.pw.toml"
 hash = "2db6150114a149ac922dda026392b401969e31bd4b93e28c44296a9ec712bd65"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap-world-map-waystones-compability.pw.toml"
-hash = "9e786f3bb7ecf3a96cf865830c2cf6e4cf860dfc0372c668be5ca85147f3026a"
 metafile = true
 
 [[files]]
