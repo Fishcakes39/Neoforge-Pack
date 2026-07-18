@@ -5,6 +5,10 @@ file = "curse-jars/ae_universal_press-1.6-neoforge-1.21.1.jar"
 hash = "b8f7fc6512eeb7b98c7322348f68039476bc96b0060b6967b8188b97cd3a3884"
 
 [[files]]
+file = "curse-jars/create_factory_metrics-2.1.0.jar"
+hash = "b00af4e9af77c1caac7d043cbbb83fc1cd4ae52f14e0c313052d446bc9b36482"
+
+[[files]]
 file = "curse-jars/fxntstorage-1.3.1+mc-1.21.1-neoforge.jar"
 hash = "96bdef7baa196df306babdb4e54beb68767cd37ad70d5f1fd0b11d8dda02916b"
 
@@ -407,7 +411,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-factory-metrics.pw.toml"
-hash = "522cfc17e2d7bb39b9ba891f81f3cb2a264319ce550c400c14f634c1c875a742"
+hash = "7a8dddbd93c0bd29bb7b8a3aa13ed354648ff385d08b45c56cb1d003e177eb50"
 metafile = true
 
 [[files]]
