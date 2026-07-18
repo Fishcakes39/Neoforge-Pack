@@ -1,0 +1,13 @@
+name = "Create: Factory Metrics"
+filename = "create_factory_metrics-2.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e54c66eff1b9a169b514d19185b32e0d58e395b8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8441236
+project-id = 1510582

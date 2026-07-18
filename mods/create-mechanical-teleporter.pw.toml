@@ -1,0 +1,13 @@
+name = "Create: Mechanical teleporter"
+filename = "create_mechanical_teleporter-1.21.1-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "019a5868d1e45a66a491f87263ecf3bda39c31b8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8419610
+project-id = 1272914
