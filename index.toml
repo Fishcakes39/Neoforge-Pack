@@ -5,8 +5,20 @@ file = "curse-jars/ae_universal_press-1.6-neoforge-1.21.1.jar"
 hash = "b8f7fc6512eeb7b98c7322348f68039476bc96b0060b6967b8188b97cd3a3884"
 
 [[files]]
+file = "curse-jars/fxntstorage-1.3.1+mc-1.21.1-neoforge.jar"
+hash = "96bdef7baa196df306babdb4e54beb68767cd37ad70d5f1fd0b11d8dda02916b"
+
+[[files]]
 file = "curse-jars/midgard-1.0.0.jar"
 hash = "4d4ee00ff529c8e973f78427557c60735e24864d66da1741ba12b18ef43ac1f6"
+
+[[files]]
+file = "curse-jars/modern_gui-1.1.0.jar"
+hash = "e6a0f44312fc778cf3e4899508f519f8858b763fbebbd19f5bd798a66be7f0be"
+
+[[files]]
+file = "curse-jars/shield_generators-1.4.0.jar"
+hash = "c33de4c321fc228f709d459f3b40e23217356a554dd5aae586fd5e2bd4743db3"
 
 [[files]]
 file = "mods/advanced-netherite.pw.toml"
@@ -550,7 +562,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-train-parts.pw.toml"
-hash = "8a79b9d32d75a4e7af92a8447587432a8b52b648001ba250644e5aae39c7daaa"
+hash = "bfcebbfff49d864374fef2f75027cb1bb619f4beca3707621689c22d3c758c33"
 metafile = true
 
 [[files]]
@@ -566,6 +578,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
+metafile = true
+
+[[files]]
+file = "mods/create_factory_logistics.pw.toml"
+hash = "5b9c2ce4c14ae1d3bce7e2b02f617596947e8f3b978a3f30e1dee4ea782777fa"
 metafile = true
 
 [[files]]
