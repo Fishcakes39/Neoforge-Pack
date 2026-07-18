@@ -464,6 +464,11 @@ hash = "45b051ece8fcbdfb210d21829438d2b33b73ef0b5cfacf22bc1c23c5db83ed76"
 metafile = true
 
 [[files]]
+file = "mods/create-mechanical-teleporter.pw.toml"
+hash = "3d452e0632b8c77216f6dd2dc8b8ee025e49c866a45deeae4eab209939bd2526"
+metafile = true
+
+[[files]]
 file = "mods/create-misc-and-things.pw.toml"
 hash = "d327df3f6a94994d53cd6095cb8e0af813cab6e31ba49bc5f048ebfdd42d4b6e"
 metafile = true

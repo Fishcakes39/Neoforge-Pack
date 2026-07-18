@@ -1,0 +1,8 @@
+name = "create-mechanical-teleporter"
+filename = "create_mechanical_teleporter-1.21.1-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Fishcakes39/Neoforge-Pack/raw/refs/heads/main/curse-jars/create_mechanical_teleporter-1.21.1-1.0.3.jar"
+hash-format = "sha256"
+hash = "90d944f60ff2ce262371c33fa53f76057e2a43e96779d8ceda151a09b1a56e55"
