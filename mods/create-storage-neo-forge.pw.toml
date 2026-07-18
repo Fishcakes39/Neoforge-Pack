@@ -1,13 +1,8 @@
-name = "Create: Storage [Neo/Forge]"
+name = "create-storage-neo-forge"
 filename = "fxntstorage-1.3.1+mc-1.21.1-neoforge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "df9b75ffc972987b765056ef26a9e4981c896824"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 8392676
-project-id = 1281770
+url = "https://github.com/Fishcakes39/Neoforge-Pack/raw/refs/heads/main/curse-jars/fxntstorage-1.3.1+mc-1.21.1-neoforge.jar"
+hash-format = "sha256"
+hash = "96bdef7baa196df306babdb4e54beb68767cd37ad70d5f1fd0b11d8dda02916b"

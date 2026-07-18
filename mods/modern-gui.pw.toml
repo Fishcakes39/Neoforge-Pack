@@ -1,13 +1,8 @@
-name = "Modern GUI"
+name = "modern-gui"
 filename = "modern_gui-1.1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "32fe6b2df7bd1b79e294c508deb725e57c9b1f37"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 8441218
-project-id = 1522468
+url = "https://github.com/Fishcakes39/Neoforge-Pack/raw/refs/heads/main/curse-jars/modern_gui-1.1.0.jar"
+hash-format = "sha256"
+hash = "e6a0f44312fc778cf3e4899508f519f8858b763fbebbd19f5bd798a66be7f0be"
