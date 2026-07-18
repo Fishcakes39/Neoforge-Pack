@@ -406,11 +406,6 @@ hash = "040e5ed9eafedf380f2dcf058efd2cc2a15d5cdfe29a49b7ef41b21c6d935f75"
 metafile = true
 
 [[files]]
-file = "mods/create-factory-logistics.pw.toml"
-hash = "15bff954b1c08b0787598562c27e9005eaa4a543ecef60dfdef5b5433e27a682"
-metafile = true
-
-[[files]]
 file = "mods/create-factory-metrics.pw.toml"
 hash = "522cfc17e2d7bb39b9ba891f81f3cb2a264319ce550c400c14f634c1c875a742"
 metafile = true
