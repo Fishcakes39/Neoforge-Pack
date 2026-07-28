@@ -191,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/cbc-enchanced-shells-create-big-cannons.pw.toml"
-hash = "9066c0da25feffd5baea46e7fe864ad8a0ee39d0492d35d6e80b2927f3f75b27"
+hash = "89ce9993242eb071f055d3543f5362a7cce8a20167800087456cc8f01e5e8ec8"
 metafile = true
 
 [[files]]
@@ -261,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics-gadgets-and-gizmos.pw.toml"
-hash = "5c6b59deab7795303875d5de4d07bd1e51ce66eafbe75be7d1685ef3cc16975f"
+hash = "d61f777d6fd598fbdfcc07dfeb347c4a57f1dbc3081f77bb46ab09cb58f7caf6"
 metafile = true
 
 [[files]]
@@ -286,12 +286,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
-hash = "5fab8d2e412683dfd72f08cf6750e51b03cb43192e8eb783e962ba28d20978bc"
+hash = "59beba57945e374108e22789e8fc32d2758174929ebd9bf17fc139956dc32e30"
 metafile = true
 
 [[files]]
 file = "mods/create-aeroportals.pw.toml"
-hash = "f0e26095b74bb450386cd9e548ad27f1c753431342f722fbfd2c135a6d0200d9"
+hash = "f6c7bb36acff67b6e619fe80e7051f7d753c30cdacc440a12917fbc6f1ccbf65"
 metafile = true
 
 [[files]]
@@ -326,7 +326,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-cobblestone.pw.toml"
-hash = "c845b489d7f6b6c005b2661c133d5f09555e34222aaa6cb77a486f84406a0639"
+hash = "c7b0f9d98e29d0c5054cb5eef83743fb639389e166d279ab12178baeffe7cff7"
 metafile = true
 
 [[files]]
@@ -505,13 +505,18 @@ hash = "bcf4e5fd635c22442ff0317a2b41ff6a2f4109cba2917bb413ff0c24d787345f"
 metafile = true
 
 [[files]]
+file = "mods/create-power-chip.pw.toml"
+hash = "d4ed0e38f4f91a56964c1117010f42ae01d13e8711a94121c7b9061f699ce1ed"
+metafile = true
+
+[[files]]
 file = "mods/create-power-loader.pw.toml"
 hash = "3872eeb409b1a2b5acdf5a270825a9e703e240ee8230a08b820a21c19f14c27e"
 metafile = true
 
 [[files]]
 file = "mods/create-propulsion-simulated.pw.toml"
-hash = "3fd629d483c750e80a6e450ce0f350b5a15dc6d206fbe7124d5230abd7f164ac"
+hash = "df11e99922d21336ecfbb0c8ffb6ed942c2f73e32658b39afd1c4edf6b5d0ab3"
 metafile = true
 
 [[files]]
@@ -561,7 +566,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-train-parts.pw.toml"
-hash = "bfcebbfff49d864374fef2f75027cb1bb619f4beca3707621689c22d3c758c33"
+hash = "09cb6e7676473c7394811162cb35684b11db4b1eb6d680fd7d9956c668f24864"
 metafile = true
 
 [[files]]
@@ -1061,7 +1066,7 @@ metafile = true
 
 [[files]]
 file = "mods/steam-n-rails-neoforge.pw.toml"
-hash = "d452fac667bc125262ec97a16c71275bd4b8bde26101a67508ee3fb2e4e68306"
+hash = "a2681409a01e496281b21d383cb28043efc4425f7110d21dfd8b6362e258a817"
 metafile = true
 
 [[files]]
@@ -1082,11 +1087,6 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "fcbf8c162c36804238d73721d79eb3803b0f94a5a75880da1d82ff8132149af6"
-metafile = true
-
-[[files]]
-file = "mods/synaxis.pw.toml"
-hash = "b98d05a0164f3e49e5a3cca92f8988d32b3ea0241c56b0fe318318e20040e728"
 metafile = true
 
 [[files]]
@@ -1116,7 +1116,7 @@ metafile = true
 
 [[files]]
 file = "mods/vista.pw.toml"
-hash = "84c742d2d301111d2f1d3b86ada446b5dc40d0b40b1b55c558e8f8c675ead9fe"
+hash = "2b014c52244132a8ab4e74cc681389fb4c2b3d6f2b33b982808375277fd44530"
 metafile = true
 
 [[files]]
