@@ -195,11 +195,6 @@ hash = "89ce9993242eb071f055d3543f5362a7cce8a20167800087456cc8f01e5e8ec8"
 metafile = true
 
 [[files]]
-file = "mods/cbcms.pw.toml"
-hash = "fdc901c2efab5ecd4fedf244903ea44d90a19ed0111a80a326a588911861479c"
-metafile = true
-
-[[files]]
 file = "mods/charm-of-undying.pw.toml"
 hash = "a5a04d39791ce824b7b0b78fd1fa4f08d1584c77c9c52edcb7210439f8917e98"
 metafile = true
